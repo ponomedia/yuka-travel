@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "浜千鳥の湯　海舟（共立リゾート）",
+    "area": "南紀白浜",
+    "address": "和歌山県西牟婁郡白浜町1698-1",
+    "review": "4.39",
+    "review_count": 3516,
+    "min_charge": 12100,
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/68224/68224.jpg",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D68224%26f_flg%3DPLAN"
+  },
+  {
     "name": "ＨＯＴＥＬシーサイド島原",
     "area": "雲仙・島原",
     "address": "長崎県島原市新湊1-38-1",
