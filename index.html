@@ -3,103 +3,95 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>山本ゆかのおすすめ旅行リスト</title>
+<title>山本ゆか｜おすすめの宿まとめ</title>
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { font-family: 'Hiragino Kaku Gothic ProN', 'Noto Sans JP', sans-serif;
-         background: #f8f5f0; color: #333; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Hiragino Sans', sans-serif;
+         background: #fff; color: #111; max-width: 480px; margin: 0 auto; }
 
-  .hero { background: linear-gradient(135deg, #2c5f8a 0%, #1a3a5c 100%);
-          color: white; text-align: center; padding: 40px 20px 30px; }
-  .hero .avatar { width: 80px; height: 80px; border-radius: 50%;
-                  border: 3px solid rgba(255,255,255,0.6);
-                  background: #4a90d9; display: inline-flex;
-                  align-items: center; justify-content: center;
-                  font-size: 32px; margin-bottom: 12px; }
-  .hero h1 { font-size: 20px; font-weight: bold; margin-bottom: 6px; }
-  .hero p { font-size: 13px; opacity: 0.85; line-height: 1.6; }
+  .profile { padding: 40px 24px 28px; border-bottom: 1px solid #f0f0f0; }
+  .profile-inner { display: flex; align-items: center; gap: 16px; }
+  .avatar { width: 56px; height: 56px; border-radius: 50%;
+            background: #e8f0fe; display: flex; align-items: center;
+            justify-content: center; font-size: 24px; flex-shrink: 0;
+            border: 1px solid #d0ddf7; }
+  .profile-text h1 { font-size: 15px; font-weight: 600; margin-bottom: 4px; }
+  .profile-text p { font-size: 13px; color: #666; line-height: 1.5; }
 
-  .section { padding: 24px 16px 8px; }
-  .section-title { font-size: 13px; color: #888; font-weight: bold;
-                   letter-spacing: 0.05em; margin-bottom: 12px;
-                   text-transform: uppercase; }
+  .section { padding: 24px 24px 0; }
+  .section-label { font-size: 11px; color: #999; letter-spacing: 0.08em;
+                   text-transform: uppercase; margin-bottom: 16px; }
 
-  .hotel-card { background: white; border-radius: 16px;
-                overflow: hidden; box-shadow: 0 2px 12px rgba(0,0,0,0.08);
-                margin-bottom: 16px; }
-  .hotel-img { width: 100%; height: 200px; object-fit: cover; }
-  .hotel-body { padding: 16px; }
-  .hotel-badge { display: inline-block; background: #fff3e0; color: #e65100;
-                 font-size: 11px; font-weight: bold; padding: 3px 8px;
-                 border-radius: 20px; margin-bottom: 8px; }
-  .hotel-name { font-size: 17px; font-weight: bold; margin-bottom: 6px; }
-  .hotel-area { font-size: 13px; color: #888; margin-bottom: 8px; }
-  .hotel-meta { display: flex; gap: 12px; margin-bottom: 14px; }
-  .hotel-meta span { font-size: 13px; color: #555; }
-  .hotel-meta .star { color: #f5a623; }
-  .btn-book { display: block; background: linear-gradient(135deg, #e84b3c, #c0392b);
-              color: white; text-align: center; padding: 14px;
-              border-radius: 12px; font-size: 15px; font-weight: bold;
-              text-decoration: none; letter-spacing: 0.03em; }
-  .btn-book:hover { opacity: 0.9; }
+  .hotel-card { border: 1px solid #e8e8e8; border-radius: 12px;
+                overflow: hidden; margin-bottom: 12px; }
+  .hotel-img { width: 100%; height: 180px; object-fit: cover;
+               background: #f5f5f5; display: block; }
+  .hotel-body { padding: 14px 16px; }
+  .hotel-tag { font-size: 11px; color: #1a73e8; font-weight: 500;
+               margin-bottom: 6px; }
+  .hotel-name { font-size: 15px; font-weight: 600; margin-bottom: 4px; }
+  .hotel-meta { font-size: 12px; color: #888; margin-bottom: 12px; }
+  .hotel-meta span + span::before { content: '·'; margin: 0 6px; }
+  .btn { display: block; border: 1.5px solid #1a73e8; color: #1a73e8;
+         text-align: center; padding: 11px; border-radius: 8px;
+         font-size: 13px; font-weight: 500; text-decoration: none; }
+  .btn:hover { background: #f0f4ff; }
 
-  .link-list { display: flex; flex-direction: column; gap: 10px; padding: 0 16px 16px; }
-  .link-btn { display: block; background: white; color: #2c5f8a;
-              text-align: center; padding: 14px; border-radius: 12px;
-              font-size: 14px; font-weight: bold; text-decoration: none;
-              box-shadow: 0 2px 8px rgba(0,0,0,0.07); border: 1.5px solid #dce8f0; }
+  .link-section { padding: 12px 24px 0; }
+  .link-btn { display: block; border: 1px solid #e0e0e0; color: #555;
+              text-align: center; padding: 13px; border-radius: 8px;
+              font-size: 13px; text-decoration: none; margin-bottom: 10px; }
+  .link-btn:hover { background: #fafafa; }
 
-  .footer { text-align: center; padding: 24px 16px; font-size: 12px; color: #aaa; }
+  .footer { padding: 32px 24px; font-size: 11px; color: #bbb;
+            border-top: 1px solid #f0f0f0; margin-top: 24px; }
 </style>
 </head>
 <body>
 
-<div class="hero">
-  <div class="avatar">🌸</div>
-  <h1>山本ゆか｜ポイントで旅する主婦</h1>
-  <p>旅行代理店出身→専業主婦<br>楽天ポイントで月1旅行が習慣になりました</p>
+<div class="profile">
+  <div class="profile-inner">
+    <div class="avatar">✈️</div>
+    <div class="profile-text">
+      <h1>山本ゆか</h1>
+      <p>楽天ポイントで月1旅行する主婦<br>旅行代理店出身・3児の母</p>
+    </div>
+  </div>
 </div>
 
-<div class="section">
-  <div class="section-title">✈️ おすすめ宿まとめ</div>
+<div class="section" style="padding-top:24px;">
+  <div class="section-label">おすすめの宿</div>
   <div id="hotel-list"></div>
 </div>
 
-<div class="section">
-  <div class="section-title">🔗 リンク一覧</div>
-</div>
-<div class="link-list">
-  <a class="link-btn" href="https://travel.rakuten.co.jp/" target="_blank">
-    🏨 楽天トラベル（トップ）
-  </a>
+<div class="link-section">
+  <a class="link-btn" href="https://travel.rakuten.co.jp/" target="_blank">楽天トラベルで宿を探す</a>
 </div>
 
 <div class="footer">
-  © 山本ゆか — ポイントで旅する主婦<br>
-  ページ内のリンクはアフィリエイトリンクを含みます
+  山本ゆか — Threads @pointo_de_tabi_yuka<br>
+  ※ページ内のリンクはアフィリエイトリンクを含みます
 </div>
 
 <script src="hotel_data.js"></script>
 <script>
   if (typeof HOTEL_LIST !== 'undefined' && HOTEL_LIST.length > 0) {
-    const container = document.getElementById('hotel-list');
+    var container = document.getElementById('hotel-list');
     HOTEL_LIST.forEach(function(h) {
-      const card = document.createElement('div');
+      var card = document.createElement('div');
       card.className = 'hotel-card';
-      card.innerHTML =
-        '<img class="hotel-img" src="' + h.image + '" alt="' + h.name + '" loading="lazy">' +
+      var img = h.image
+        ? '<img class="hotel-img" src="' + h.image + '" alt="' + h.name + '" loading="lazy">'
+        : '<div class="hotel-img"></div>';
+      card.innerHTML = img +
         '<div class="hotel-body">' +
-          '<span class="hotel-badge">' + h.area + '</span>' +
+          '<div class="hotel-tag">' + h.area + '</div>' +
           '<div class="hotel-name">' + h.name + '</div>' +
-          '<div class="hotel-area">' + h.address + '</div>' +
           '<div class="hotel-meta">' +
-            '<span class="star">★</span>' +
-            '<span>評価 ' + h.review + '（' + h.review_count + '件）</span>' +
-            '<span>1泊' + Number(h.min_charge).toLocaleString() + '円〜</span>' +
+            '<span>★ ' + h.review + '（' + h.review_count + '件）</span>' +
+            '<span>' + Number(h.min_charge).toLocaleString() + '円〜</span>' +
           '</div>' +
-          '<a class="btn-book" href="' + h.affiliate_url + '" target="_blank">' +
-            '🏨 楽天トラベルで空室を確認する' +
-          '</a>' +
+          '<a class="btn" href="' + h.affiliate_url + '" target="_blank">楽天トラベルで空室を確認</a>' +
         '</div>';
       container.appendChild(card);
     });
