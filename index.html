@@ -42,9 +42,6 @@
               border-radius: 12px; font-size: 15px; font-weight: bold;
               text-decoration: none; letter-spacing: 0.03em; }
   .btn-book:hover { opacity: 0.9; }
-  .btn-note { display: block; background: #f0f0f0; color: #555;
-              text-align: center; padding: 12px; border-radius: 12px;
-              font-size: 14px; text-decoration: none; margin-top: 8px; }
 
   .link-list { display: flex; flex-direction: column; gap: 10px; padding: 0 16px 16px; }
   .link-btn { display: block; background: white; color: #2c5f8a;
@@ -64,23 +61,8 @@
 </div>
 
 <div class="section">
-  <div class="section-title">✈️ 今週のおすすめ宿</div>
-  <div class="hotel-card" id="featured-hotel">
-    <img class="hotel-img" id="hotel-img" src="" alt="ホテル画像">
-    <div class="hotel-body">
-      <span class="hotel-badge" id="hotel-area">エリア</span>
-      <div class="hotel-name" id="hotel-name">ホテル名</div>
-      <div class="hotel-area" id="hotel-address"></div>
-      <div class="hotel-meta">
-        <span class="star">★</span>
-        <span id="hotel-review">-</span>
-        <span id="hotel-price">-円〜</span>
-      </div>
-      <a class="btn-book" id="hotel-link" href="#" target="_blank">
-        🏨 楽天トラベルで空室を確認する
-      </a>
-    </div>
-  </div>
+  <div class="section-title">✈️ おすすめ宿まとめ</div>
+  <div id="hotel-list"></div>
 </div>
 
 <div class="section">
@@ -90,7 +72,6 @@
   <a class="link-btn" href="https://travel.rakuten.co.jp/" target="_blank">
     🏨 楽天トラベル（トップ）
   </a>
-  <!-- 追加リンクはここに -->
 </div>
 
 <div class="footer">
@@ -98,20 +79,30 @@
   ページ内のリンクはアフィリエイトリンクを含みます
 </div>
 
-<!-- ホテルデータ（travel_hotel_poster.pyが自動更新） -->
 <script src="hotel_data.js"></script>
 <script>
-  if (typeof HOTEL_DATA !== 'undefined') {
-    document.getElementById('hotel-img').src     = HOTEL_DATA.image;
-    document.getElementById('hotel-img').alt     = HOTEL_DATA.name;
-    document.getElementById('hotel-area').textContent  = HOTEL_DATA.area;
-    document.getElementById('hotel-name').textContent  = HOTEL_DATA.name;
-    document.getElementById('hotel-address').textContent = HOTEL_DATA.address;
-    document.getElementById('hotel-review').textContent =
-      '評価 ' + HOTEL_DATA.review + '（' + HOTEL_DATA.review_count + '件）';
-    document.getElementById('hotel-price').textContent =
-      '1泊' + Number(HOTEL_DATA.min_charge).toLocaleString() + '円〜';
-    document.getElementById('hotel-link').href = HOTEL_DATA.affiliate_url;
+  if (typeof HOTEL_LIST !== 'undefined' && HOTEL_LIST.length > 0) {
+    const container = document.getElementById('hotel-list');
+    HOTEL_LIST.forEach(function(h) {
+      const card = document.createElement('div');
+      card.className = 'hotel-card';
+      card.innerHTML =
+        '<img class="hotel-img" src="' + h.image + '" alt="' + h.name + '" loading="lazy">' +
+        '<div class="hotel-body">' +
+          '<span class="hotel-badge">' + h.area + '</span>' +
+          '<div class="hotel-name">' + h.name + '</div>' +
+          '<div class="hotel-area">' + h.address + '</div>' +
+          '<div class="hotel-meta">' +
+            '<span class="star">★</span>' +
+            '<span>評価 ' + h.review + '（' + h.review_count + '件）</span>' +
+            '<span>1泊' + Number(h.min_charge).toLocaleString() + '円〜</span>' +
+          '</div>' +
+          '<a class="btn-book" href="' + h.affiliate_url + '" target="_blank">' +
+            '🏨 楽天トラベルで空室を確認する' +
+          '</a>' +
+        '</div>';
+      container.appendChild(card);
+    });
   }
 </script>
 </body>
