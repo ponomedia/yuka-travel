@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>山本ゆかのおすすめ旅行リスト</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Hiragino Kaku Gothic ProN', 'Noto Sans JP', sans-serif;
+         background: #f8f5f0; color: #333; }
+
+  .hero { background: linear-gradient(135deg, #2c5f8a 0%, #1a3a5c 100%);
+          color: white; text-align: center; padding: 40px 20px 30px; }
+  .hero .avatar { width: 80px; height: 80px; border-radius: 50%;
+                  border: 3px solid rgba(255,255,255,0.6);
+                  background: #4a90d9; display: inline-flex;
+                  align-items: center; justify-content: center;
+                  font-size: 32px; margin-bottom: 12px; }
+  .hero h1 { font-size: 20px; font-weight: bold; margin-bottom: 6px; }
+  .hero p { font-size: 13px; opacity: 0.85; line-height: 1.6; }
+
+  .section { padding: 24px 16px 8px; }
+  .section-title { font-size: 13px; color: #888; font-weight: bold;
+                   letter-spacing: 0.05em; margin-bottom: 12px;
+                   text-transform: uppercase; }
+
+  .hotel-card { background: white; border-radius: 16px;
+                overflow: hidden; box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+                margin-bottom: 16px; }
+  .hotel-img { width: 100%; height: 200px; object-fit: cover; }
+  .hotel-body { padding: 16px; }
+  .hotel-badge { display: inline-block; background: #fff3e0; color: #e65100;
+                 font-size: 11px; font-weight: bold; padding: 3px 8px;
+                 border-radius: 20px; margin-bottom: 8px; }
+  .hotel-name { font-size: 17px; font-weight: bold; margin-bottom: 6px; }
+  .hotel-area { font-size: 13px; color: #888; margin-bottom: 8px; }
+  .hotel-meta { display: flex; gap: 12px; margin-bottom: 14px; }
+  .hotel-meta span { font-size: 13px; color: #555; }
+  .hotel-meta .star { color: #f5a623; }
+  .btn-book { display: block; background: linear-gradient(135deg, #e84b3c, #c0392b);
+              color: white; text-align: center; padding: 14px;
+              border-radius: 12px; font-size: 15px; font-weight: bold;
+              text-decoration: none; letter-spacing: 0.03em; }
+  .btn-book:hover { opacity: 0.9; }
+  .btn-note { display: block; background: #f0f0f0; color: #555;
+              text-align: center; padding: 12px; border-radius: 12px;
+              font-size: 14px; text-decoration: none; margin-top: 8px; }
+
+  .link-list { display: flex; flex-direction: column; gap: 10px; padding: 0 16px 16px; }
+  .link-btn { display: block; background: white; color: #2c5f8a;
+              text-align: center; padding: 14px; border-radius: 12px;
+              font-size: 14px; font-weight: bold; text-decoration: none;
+              box-shadow: 0 2px 8px rgba(0,0,0,0.07); border: 1.5px solid #dce8f0; }
+
+  .footer { text-align: center; padding: 24px 16px; font-size: 12px; color: #aaa; }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="avatar">🌸</div>
+  <h1>山本ゆか｜ポイントで旅する主婦</h1>
+  <p>旅行代理店出身→専業主婦<br>楽天ポイントで月1旅行が習慣になりました</p>
+</div>
+
+<div class="section">
+  <div class="section-title">✈️ 今週のおすすめ宿</div>
+  <div class="hotel-card" id="featured-hotel">
+    <img class="hotel-img" id="hotel-img" src="" alt="ホテル画像">
+    <div class="hotel-body">
+      <span class="hotel-badge" id="hotel-area">エリア</span>
+      <div class="hotel-name" id="hotel-name">ホテル名</div>
+      <div class="hotel-area" id="hotel-address"></div>
+      <div class="hotel-meta">
+        <span class="star">★</span>
+        <span id="hotel-review">-</span>
+        <span id="hotel-price">-円〜</span>
+      </div>
+      <a class="btn-book" id="hotel-link" href="#" target="_blank">
+        🏨 楽天トラベルで空室を確認する
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-title">🔗 リンク一覧</div>
+</div>
+<div class="link-list">
+  <a class="link-btn" href="https://travel.rakuten.co.jp/" target="_blank">
+    🏨 楽天トラベル（トップ）
+  </a>
+  <!-- 追加リンクはここに -->
+</div>
+
+<div class="footer">
+  © 山本ゆか — ポイントで旅する主婦<br>
+  ページ内のリンクはアフィリエイトリンクを含みます
+</div>
+
+<!-- ホテルデータ（travel_hotel_poster.pyが自動更新） -->
+<script src="hotel_data.js"></script>
+<script>
+  if (typeof HOTEL_DATA !== 'undefined') {
+    document.getElementById('hotel-img').src     = HOTEL_DATA.image;
+    document.getElementById('hotel-img').alt     = HOTEL_DATA.name;
+    document.getElementById('hotel-area').textContent  = HOTEL_DATA.area;
+    document.getElementById('hotel-name').textContent  = HOTEL_DATA.name;
+    document.getElementById('hotel-address').textContent = HOTEL_DATA.address;
+    document.getElementById('hotel-review').textContent =
+      '評価 ' + HOTEL_DATA.review + '（' + HOTEL_DATA.review_count + '件）';
+    document.getElementById('hotel-price').textContent =
+      '1泊' + Number(HOTEL_DATA.min_charge).toLocaleString() + '円〜';
+    document.getElementById('hotel-link').href = HOTEL_DATA.affiliate_url;
+  }
+</script>
+</body>
+</html>
