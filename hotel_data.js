@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "南紀白浜マリオットホテル",
+    "area": "南紀白浜",
+    "address": "和歌山県西牟婁郡白浜町2428",
+    "review": "4.39",
+    "review_count": 1805,
+    "min_charge": 7830,
+    "image": "https://trvimg.r10s.jp/share/image_up/160834/origin/4ac10a5b5c1603ee08c2cf7edadb23fe2e9a724f.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F160834%2F"
+  },
+  {
     "name": "紀州・白浜温泉　むさし",
     "area": "南紀白浜",
     "address": "和歌山県西牟婁郡白浜町868",
