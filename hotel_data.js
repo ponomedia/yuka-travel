@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "アンダの森　伊豆いっぺき湖",
+    "area": "伊豆高原",
+    "address": "静岡県伊東市吉田836-2",
+    "review": "4.64",
+    "review_count": 4273,
+    "min_charge": 18800,
+    "image": "https://trvimg.r10s.jp/share/image_up/70720/origin/a820679e0ae83ca7348a88ff072f702925174ae0.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70720%2F"
+  },
+  {
     "name": "白浜温泉　ホテル三楽荘",
     "area": "南紀白浜",
     "address": "和歌山県西牟婁郡白浜町3078",
