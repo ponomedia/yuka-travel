@@ -8,7 +8,7 @@ const HOTEL_LIST = [
     "review_count": 2349,
     "min_charge": 9900,
     "image": "https://trvimg.r10s.jp/share/image_up/19739/origin/414c1958f9331a8d8ad8cfb2f6a50e160fe1b1b6.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D19739%26f_flg%3DPLAN"
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19739%2F"
   },
   {
     "name": "浜千鳥の湯　海舟（共立リゾート）",
