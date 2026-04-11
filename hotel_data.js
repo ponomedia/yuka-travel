@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "伊香保温泉　ホテル松本楼",
+    "area": "伊香保温泉",
+    "address": "群馬県渋川市伊香保町伊香保164",
+    "review": "4.53",
+    "review_count": 3058,
+    "min_charge": 13000,
+    "image": "https://trvimg.r10s.jp/share/image_up/19271/origin/403a067a9f13f0d82d04b826ed182ff6173b8121.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19271%2F"
+  },
+  {
     "name": "杜の湯　きらの里（共立リゾート）（２０２５年１２月２２日リニューアルオープン）",
     "area": "伊豆高原",
     "address": "静岡県伊東市八幡野1326-5",
