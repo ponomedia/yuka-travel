@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "杜の湯　きらの里（共立リゾート）（２０２５年１２月２２日リニューアルオープン）",
+    "area": "伊豆高原",
+    "address": "静岡県伊東市八幡野1326-5",
+    "review": "4.5",
+    "review_count": 1494,
+    "min_charge": 16500,
+    "image": "https://trvimg.r10s.jp/share/image_up/52638/origin/8ddf04e4b983d85e55fa060cbfaf8ba6ec9b6448.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52638%2F"
+  },
+  {
     "name": "全室スイート＆オーシャンビュー　ヴィラージュ伊豆高原",
     "area": "伊豆高原",
     "address": "静岡県伊東市富戸1317-8",
