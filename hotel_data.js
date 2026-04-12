@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "伊香保温泉　福一",
+    "area": "伊香保温泉",
+    "address": "群馬県渋川市伊香保町伊香保香湯5-4",
+    "review": "4.31",
+    "review_count": 1520,
+    "min_charge": 9350,
+    "image": "https://trvimg.r10s.jp/share/image_up/28606/origin/dd26df9ae2657628aa490bc0b11250b4d2fc067d.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28606%2F"
+  },
+  {
     "name": "伊香保温泉　ホテル木暮",
     "area": "伊香保温泉",
     "address": "群馬県渋川市伊香保町伊香保135",
