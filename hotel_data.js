@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ザ・ブセナテラス",
+    "area": "恩納・名護",
+    "address": "沖縄県名護市喜瀬1808",
+    "review": "4.55",
+    "review_count": 821,
+    "min_charge": 23600,
+    "image": "https://trvimg.r10s.jp/share/image_up/5665/origin/5409e5ef10bbf9e1d686daeb7ae88904e3a41c56.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5665%2F"
+  },
+  {
     "name": "カフーリゾートフチャク　コンド・ホテル",
     "area": "恩納・名護",
     "address": "沖縄県国頭郡恩納村冨着志利福地原246-1",
