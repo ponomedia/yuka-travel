@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ホテルモントレ沖縄　スパ＆リゾート",
+    "area": "恩納・名護",
+    "address": "沖縄県国頭郡恩納村字冨着1550-1",
+    "review": "4.59",
+    "review_count": 622,
+    "min_charge": 12950,
+    "image": "https://trvimg.r10s.jp/share/image_up/141596/origin/974c6e15ff337d44bbb92e1ba9dc1de4ea67f70d.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F141596%2F"
+  },
+  {
     "name": "リザン　シーパークホテル谷茶ベイ",
     "area": "恩納・名護",
     "address": "沖縄県国頭郡恩納村谷茶1496",
