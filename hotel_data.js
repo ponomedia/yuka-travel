@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ＡＱＵＡＳＥＮＳＥ　Ｈｏｔｅｌ　＆　Ｒｅｓｏｒｔ",
+    "area": "恩納・名護",
+    "address": "沖縄県国頭郡恩納村字冨着黒崎原86-1",
+    "review": "4.71",
+    "review_count": 403,
+    "min_charge": 13216,
+    "image": "https://trvimg.r10s.jp/share/image_up/183576/origin/d3c50efea09046024c8bd2b1fe4954bc3777436a.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183576%2F"
+  },
+  {
     "name": "ＨＩＹＯＲＩオーシャンリゾート沖縄",
     "area": "恩納・名護",
     "address": "沖縄県国頭郡恩納村仲泊1055-1",
