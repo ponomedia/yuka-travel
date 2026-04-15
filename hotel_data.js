@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ハイアットリージェンシー瀬良垣アイランド沖縄",
+    "area": "恩納・名護",
+    "address": "沖縄県国頭郡恩納村瀬良垣1108",
+    "review": "4.6",
+    "review_count": 952,
+    "min_charge": 19900,
+    "image": "https://trvimg.r10s.jp/share/image_up/166320/origin/58d2da61ead968b9dbfa6c630b897e829bc29ac8.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166320%2F"
+  },
+  {
     "name": "ＡＱＵＡＳＥＮＳＥ　Ｈｏｔｅｌ　＆　Ｒｅｓｏｒｔ",
     "area": "恩納・名護",
     "address": "沖縄県国頭郡恩納村字冨着黒崎原86-1",
