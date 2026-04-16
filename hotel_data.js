@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "天然温泉　九谷五彩の湯　スーパーホテル石川・能美根上スマートインター",
+    "area": "加賀温泉",
+    "address": "石川県能美市吉原釜屋町ハ61-1",
+    "review": "4.46",
+    "review_count": 701,
+    "min_charge": 3860,
+    "image": "https://trvimg.r10s.jp/share/image_up/181417/origin/edc32e4c69ed0bb93d3f4f8238206bd89b2a96f0.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181417%2F"
+  },
+  {
     "name": "山中温泉　白鷺湯たわらや",
     "area": "加賀温泉",
     "address": "石川県加賀市山中温泉東町２丁目ヘ-1",
