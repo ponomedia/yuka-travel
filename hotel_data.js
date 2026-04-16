@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "山代温泉　ゆのくに天祥",
+    "area": "加賀温泉",
+    "address": "石川県加賀市山代温泉19-49-1",
+    "review": "4.56",
+    "review_count": 3603,
+    "min_charge": 9350,
+    "image": "https://trvimg.r10s.jp/share/image_up/1616/origin/b27e92d7f86695babf0420c64acc75f4ccaca4b7.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1616%2F"
+  },
+  {
     "name": "下呂温泉　離れの宿　月のあかり",
     "area": "下呂温泉",
     "address": "岐阜県下呂市湯之島758-15",
