@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "粟津温泉　旅亭懐石　のとや",
+    "area": "加賀温泉",
+    "address": "石川県小松市粟津温泉　ワ85",
+    "review": "4.4",
+    "review_count": 6331,
+    "min_charge": 9900,
+    "image": "https://trvimg.r10s.jp/share/image_up/14380/origin/a4f3e5ed5986ced7becf5938d389c307bb0e2b48.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14380%2F"
+  },
+  {
     "name": "天然温泉　九谷五彩の湯　スーパーホテル石川・能美根上スマートインター",
     "area": "加賀温泉",
     "address": "石川県能美市吉原釜屋町ハ61-1",
