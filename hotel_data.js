@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "山中温泉　白鷺湯たわらや",
+    "area": "加賀温泉",
+    "address": "石川県加賀市山中温泉東町２丁目ヘ-1",
+    "review": "4.5",
+    "review_count": 850,
+    "min_charge": 8800,
+    "image": "https://trvimg.r10s.jp/share/image_up/40312/origin/6c72e98078e9de5882a06911ef67e9e06c498ebd.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40312%2F"
+  },
+  {
     "name": "山代温泉　ゆのくに天祥",
     "area": "加賀温泉",
     "address": "石川県加賀市山代温泉19-49-1",
