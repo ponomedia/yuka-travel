@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "センチュリーマリーナ函館",
+    "area": "函館",
+    "address": "北海道函館市大手町22-13",
+    "review": "4.7",
+    "review_count": 3215,
+    "min_charge": 13500,
+    "image": "https://trvimg.r10s.jp/share/image_up/168681/origin/0bc94c7bbacf26395471bfd188d0a532a1d73f53.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168681%2F"
+  },
+  {
     "name": "山中温泉　かがり吉祥亭",
     "area": "加賀温泉",
     "address": "石川県加賀市山中温泉こおろぎ町ニ1-1",
