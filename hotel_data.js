@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "函館湯の川温泉　海と灯／ヒューイットリゾート",
+    "area": "函館",
+    "address": "北海道函館市湯川町3-9-20",
+    "review": "4.46",
+    "review_count": 1976,
+    "min_charge": 10980,
+    "image": "https://trvimg.r10s.jp/share/image_up/182148/origin/1a3a2291628332c5ad24877ad317b6fb039a49ce.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182148%2F"
+  },
+  {
     "name": "センチュリーマリーナ函館",
     "area": "函館",
     "address": "北海道函館市大手町22-13",
