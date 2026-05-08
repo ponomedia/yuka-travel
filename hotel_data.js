@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "富士屋ホテル",
+    "area": "箱根",
+    "address": "神奈川県足柄下郡箱根町宮ノ下359",
+    "review": "4.78",
+    "review_count": 2154,
+    "min_charge": 28886,
+    "image": "https://trvimg.r10s.jp/share/image_up/1727/origin/961a354632e07d8ae853a11930e29f06424c4d53.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1727%2F"
+  },
+  {
     "name": "箱根ホテル小涌園",
     "area": "箱根",
     "address": "神奈川県足柄下郡箱根町ニノ平1297",
