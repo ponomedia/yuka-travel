@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "新富良野プリンスホテル",
+    "area": "富良野・美瑛",
+    "address": "北海道富良野市中御料",
+    "review": "4.35",
+    "review_count": 1412,
+    "min_charge": 6597,
+    "image": "https://trvimg.r10s.jp/share/image_up/30804/origin/9334bee6d5cd78539d75bf1cf137a23e6f2fd94e.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30804%2F"
+  },
+  {
     "name": "富士屋ホテル",
     "area": "箱根",
     "address": "神奈川県足柄下郡箱根町宮ノ下359",
