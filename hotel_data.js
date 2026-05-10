@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ホテルラヴニール美瑛",
+    "area": "富良野・美瑛",
+    "address": "北海道上川郡美瑛町本町１丁目9-21",
+    "review": "4.62",
+    "review_count": 758,
+    "min_charge": 8100,
+    "image": "https://trvimg.r10s.jp/share/image_up/37509/origin/85bef609cf2b237a3acdfa2341aa60d83bfa682d.47.1.26.2.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37509%2F"
+  },
+  {
     "name": "雲仙温泉　雲仙宮崎旅館",
     "area": "雲仙・島原",
     "address": "長崎県雲仙市小浜町雲仙320番地",
