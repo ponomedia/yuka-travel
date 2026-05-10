@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "雲仙温泉　雲仙宮崎旅館",
+    "area": "雲仙・島原",
+    "address": "長崎県雲仙市小浜町雲仙320番地",
+    "review": "4.92",
+    "review_count": 851,
+    "min_charge": 24530,
+    "image": "https://trvimg.r10s.jp/share/image_up/28126/origin/9ed3c649512284a455787d22fcd5681a6b25333f.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28126%2F"
+  },
+  {
     "name": "天然温泉　紫雲の湯　ラビスタ富良野ヒルズ（ドーミーイン・御宿野乃　ホテルズグループ）",
     "area": "富良野・美瑛",
     "address": "北海道富良野市朝日町5-14",
