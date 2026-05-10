@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "別府温泉　ホテル白菊",
+    "area": "別府",
+    "address": "大分県別府市上田の湯町16-36",
+    "review": "4.58",
+    "review_count": 1372,
+    "min_charge": 17050,
+    "image": "https://trvimg.r10s.jp/share/image_up/12660/origin/aacea80fedd368a2cfd4ef14bf23b4c11920eea2.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12660%2F"
+  },
+  {
     "name": "指宿温泉　休暇村　指宿",
     "area": "指宿",
     "address": "鹿児島県指宿市東方10445",
