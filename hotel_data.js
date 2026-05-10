@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "指宿温泉　休暇村　指宿",
+    "area": "指宿",
+    "address": "鹿児島県指宿市東方10445",
+    "review": "4.37",
+    "review_count": 1140,
+    "min_charge": 12000,
+    "image": "https://trvimg.r10s.jp/share/image_up/8580/MIDDLE/qqFCc9.jpeg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8580%2F"
+  },
+  {
     "name": "ホテルラヴニール美瑛",
     "area": "富良野・美瑛",
     "address": "北海道上川郡美瑛町本町１丁目9-21",
