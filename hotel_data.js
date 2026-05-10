@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "草津温泉　ホテル櫻井",
+    "area": "草津温泉",
+    "address": "群馬県吾妻郡草津町大字草津465-4",
+    "review": "4.51",
+    "review_count": 4635,
+    "min_charge": 14300,
+    "image": "https://trvimg.r10s.jp/share/image_up/56137/origin/266e76ab0e751e5a1f1b96109d86e1344fb94722.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F56137%2F"
+  },
+  {
     "name": "別府温泉　ホテル白菊",
     "area": "別府",
     "address": "大分県別府市上田の湯町16-36",
