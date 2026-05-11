@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "草津温泉　草津ナウリゾートホテル",
+    "area": "草津温泉",
+    "address": "群馬県吾妻郡草津町草津白根750",
+    "review": "4.41",
+    "review_count": 2953,
+    "min_charge": 16500,
+    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/9598/9598_kan.jpg",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9598%2F"
+  },
+  {
     "name": "草津温泉　ホテル櫻井",
     "area": "草津温泉",
     "address": "群馬県吾妻郡草津町大字草津465-4",
