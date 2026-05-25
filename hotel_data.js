@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "神戸メリケンパークオリエンタルホテル",
+    "area": "有馬温泉・神戸",
+    "address": "兵庫県神戸市中央区波止場町5-6  【ホテルコード10】0570-051-153",
+    "review": "4.52",
+    "review_count": 7021,
+    "min_charge": 6730,
+    "image": "https://trvimg.r10s.jp/share/image_up/8978/origin/b184b342d31556f2195e0b33cd45e924323f56a5.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8978%2F"
+  },
+  {
     "name": "神戸ホテルジュラク",
     "area": "有馬温泉・神戸",
     "address": "兵庫県神戸市中央区東川崎町1-1-1",
