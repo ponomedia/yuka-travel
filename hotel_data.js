@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "神戸ホテルジュラク",
+    "area": "有馬温泉・神戸",
+    "address": "兵庫県神戸市中央区東川崎町1-1-1",
+    "review": "4.51",
+    "review_count": 1282,
+    "min_charge": 4000,
+    "image": "https://trvimg.r10s.jp/share/image_up/181293/origin/861af993b73554c219551a878c333b9628980195.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181293%2F"
+  },
+  {
     "name": "草津温泉　源泉一乃湯",
     "area": "草津温泉",
     "address": "群馬県吾妻郡草津町草津135",
