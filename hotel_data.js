@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "由布院温泉　お宿　五輪花",
+    "area": "湯布院",
+    "address": "大分県由布市湯布院町川北177",
+    "review": "4.46",
+    "review_count": 713,
+    "min_charge": 7500,
+    "image": "https://trvimg.r10s.jp/share/image_up/31742/origin/4fa006efd45893ef957bc41bf0298a4abb7e14ba.47.1.26.2.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31742%2F"
+  },
+  {
     "name": "湯布院温泉　御宿　由布乃庄",
     "area": "湯布院",
     "address": "大分県由布市湯布院町塚原1009",
