@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "由布院温泉　御宿　ゆふいん亭",
+    "area": "湯布院",
+    "address": "大分県由布市湯布院町川上山畔1027-3",
+    "review": "4.57",
+    "review_count": 753,
+    "min_charge": 17500,
+    "image": "https://trvimg.r10s.jp/share/image_up/41838/origin/567ccd00b8bb22a9e4d737b2a0f5f3bcce4fe7f1.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41838%2F"
+  },
+  {
     "name": "由布院温泉　かほりの郷　はな村",
     "area": "湯布院",
     "address": "大分県由布市湯布院町川上3015-1",
