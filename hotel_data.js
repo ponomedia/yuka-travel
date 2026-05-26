@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ＴＡＯＹＡ日光霧降",
+    "area": "日光・鬼怒川",
+    "address": "栃木県日光市所野1535-1",
+    "review": "4.3",
+    "review_count": 2373,
+    "min_charge": 22200,
+    "image": "https://trvimg.r10s.jp/share/image_up/68664/origin/1cbe090e670ad35c02567a63095ca665ef52ded8.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68664%2F"
+  },
+  {
     "name": "神戸メリケンパークオリエンタルホテル",
     "area": "有馬温泉・神戸",
     "address": "兵庫県神戸市中央区波止場町5-6  【ホテルコード10】0570-051-153",
