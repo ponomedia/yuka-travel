@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "湯布院温泉　御宿　由布乃庄",
+    "area": "湯布院",
+    "address": "大分県由布市湯布院町塚原1009",
+    "review": "4.79",
+    "review_count": 578,
+    "min_charge": 23700,
+    "image": "https://trvimg.r10s.jp/share/image_up/106080/origin/fab91ac7cde16ee9b536e3b198383bea93dc0fdf.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F106080%2F"
+  },
+  {
     "name": "由布院温泉　御宿　ゆふいん亭",
     "area": "湯布院",
     "address": "大分県由布市湯布院町川上山畔1027-3",
