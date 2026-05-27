@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "伊豆高原温泉ホテル　森の泉",
+    "area": "伊豆高原",
+    "address": "静岡県伊東市吉田901-75",
+    "review": "4.3",
+    "review_count": 803,
+    "min_charge": 8800,
+    "image": "https://trvimg.r10s.jp/share/image_up/158403/origin/5c0fa75bb5b7f691f5dae23325dbba45688d3339.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158403%2F"
+  },
+  {
     "name": "愛犬と微笑む温泉リゾート　ウブドの森　伊豆高原",
     "area": "伊豆高原",
     "address": "静岡県伊東市富戸1007-21",
