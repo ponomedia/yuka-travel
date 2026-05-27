@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "愛犬と微笑む温泉リゾート　ウブドの森　伊豆高原",
+    "area": "伊豆高原",
+    "address": "静岡県伊東市富戸1007-21",
+    "review": "4.57",
+    "review_count": 398,
+    "min_charge": 24800,
+    "image": "https://trvimg.r10s.jp/share/image_up/147196/origin/34490e60ec2e1f4cbdf0fd3f2c056faabea78b6b.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147196%2F"
+  },
+  {
     "name": "由布院温泉　お宿　五輪花",
     "area": "湯布院",
     "address": "大分県由布市湯布院町川北177",
