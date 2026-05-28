@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "箱根湯本温泉　ホテル南風荘",
+    "area": "箱根",
+    "address": "神奈川県足柄下郡箱根町湯本茶屋179番地",
+    "review": "4.4",
+    "review_count": 1652,
+    "min_charge": 9900,
+    "image": "https://trvimg.r10s.jp/share/image_up/30888/origin/1fdb158824ac5b64f939665ee44104bf53542a48.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30888%2F"
+  },
+  {
     "name": "箱根湯本温泉　天成園",
     "area": "箱根",
     "address": "神奈川県足柄下郡箱根町湯本682",
