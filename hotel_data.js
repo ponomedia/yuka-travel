@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "季の湯　雪月花（共立リゾート）",
+    "area": "箱根",
+    "address": "神奈川県足柄下郡箱根町強羅1300-34",
+    "review": "4.22",
+    "review_count": 3969,
+    "min_charge": 21450,
+    "image": "https://trvimg.r10s.jp/share/image_up/54102/origin/3904b49023c8f6c79a6dbe09fb67dbb3d380b45b.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54102%2F"
+  },
+  {
     "name": "強羅温泉　メルヴェール箱根強羅",
     "area": "箱根",
     "address": "神奈川県足柄下郡箱根町強羅1300-70",
