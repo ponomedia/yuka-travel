@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ホテルニューアカオ",
+    "area": "熱海",
+    "address": "静岡県熱海市熱海1993-250",
+    "review": "4.23",
+    "review_count": 2816,
+    "min_charge": 14300,
+    "image": "https://trvimg.r10s.jp/share/image_up/5417/origin/d657243e532f3ad742cccab1585172e91690fc8d.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5417%2F"
+  },
+  {
     "name": "季の湯　雪月花（共立リゾート）",
     "area": "箱根",
     "address": "神奈川県足柄下郡箱根町強羅1300-34",
