@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "リブマックスリゾート熱海Ｏｃｅａｎ",
+    "area": "熱海",
+    "address": "静岡県熱海市渚町22-8",
+    "review": "4.21",
+    "review_count": 899,
+    "min_charge": 10680,
+    "image": "https://trvimg.r10s.jp/share/image_up/182519/origin/50b09e2c24dd8926ec8489d691e682cc536ecaf6.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182519%2F"
+  },
+  {
     "name": "亀の井ホテル　熱海",
     "area": "熱海",
     "address": "静岡県熱海市水口町2-12-3　",
