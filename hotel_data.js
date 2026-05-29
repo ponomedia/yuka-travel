@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "亀の井ホテル　熱海",
+    "area": "熱海",
+    "address": "静岡県熱海市水口町2-12-3　",
+    "review": "4.22",
+    "review_count": 2007,
+    "min_charge": 11865,
+    "image": "https://trvimg.r10s.jp/share/image_up/84856/origin/2812128744ec403e5f3472edc20c420caa8ee908.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F84856%2F"
+  },
+  {
     "name": "ホテルニューアカオ",
     "area": "熱海",
     "address": "静岡県熱海市熱海1993-250",
