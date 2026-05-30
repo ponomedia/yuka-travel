@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "伊豆長岡温泉　ニュー八景園",
+    "area": "修善寺・伊豆長岡",
+    "address": "静岡県伊豆の国市長岡211",
+    "review": "4.27",
+    "review_count": 2114,
+    "min_charge": 4400,
+    "image": "https://trvimg.r10s.jp/share/image_up/29968/origin/a22004d6bbfe9038b7fee7e06bf53ea3deeec7ff.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29968%2F"
+  },
+  {
     "name": "わんわんパラダイス　伊豆高原（旧：伊豆高原わんわんパラダイス　ホテル＆コテージ）",
     "area": "伊豆高原",
     "address": "静岡県伊東市大室高原3-490",
