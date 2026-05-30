@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "わんわんパラダイス　伊豆高原（旧：伊豆高原わんわんパラダイス　ホテル＆コテージ）",
+    "area": "伊豆高原",
+    "address": "静岡県伊東市大室高原3-490",
+    "review": "4.08",
+    "review_count": 1132,
+    "min_charge": 8568,
+    "image": "https://trvimg.r10s.jp/share/image_up/7440/origin/7720807c3eecb644e74e869873af550094b945f9.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7440%2F"
+  },
+  {
     "name": "熱海温泉　熱海ニューフジヤホテル（伊東園ホテルズ）",
     "area": "熱海",
     "address": "静岡県熱海市銀座町1-16",
