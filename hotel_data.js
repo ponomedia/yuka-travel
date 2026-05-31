@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "箱根湯本温泉　ホテル　おかだ",
+    "area": "箱根",
+    "address": "神奈川県足柄下郡箱根町湯本茶屋191",
+    "review": "4.39",
+    "review_count": 1614,
+    "min_charge": 10200,
+    "image": "https://trvimg.r10s.jp/share/image_up/19684/origin/5bbac56bda9347e3337b54be22918de3e6c58f8e.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19684%2F"
+  },
+  {
     "name": "箱根湯本温泉　天成園",
     "area": "箱根",
     "address": "神奈川県足柄下郡箱根町湯本682",
@@ -119,16 +129,6 @@ const HOTEL_LIST = [
     "min_charge": 8800,
     "image": "https://trvimg.r10s.jp/share/image_up/5066/origin/a1bdb9ec9d195ff1c3559d47d9bb1c74ee26dcac.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5066%2F"
-  },
-  {
-    "name": "箱根湯本温泉　ホテル　おかだ",
-    "area": "箱根",
-    "address": "神奈川県足柄下郡箱根町湯本茶屋191",
-    "review": "4.39",
-    "review_count": 1606,
-    "min_charge": 10200,
-    "image": "https://trvimg.r10s.jp/share/image_up/19684/origin/5bbac56bda9347e3337b54be22918de3e6c58f8e.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19684%2F"
   },
   {
     "name": "箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月",
