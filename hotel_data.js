@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ＳＰＡ＆ＨＯＴＥＬＲＥＳＯＲＴ　ふらのラテール",
+    "area": "富良野・美瑛",
+    "address": "北海道空知郡中富良野町東1線北18号",
+    "review": "4.3",
+    "review_count": 701,
+    "min_charge": 6300,
+    "image": "https://trvimg.r10s.jp/share/image_up/109429/origin/ec5fcebf6b42b12d09776f92ee10dcd6f31f7688.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109429%2F"
+  },
+  {
     "name": "ホテルラフォーレ修善寺　山紫水明",
     "area": "修善寺・伊豆長岡",
     "address": "静岡県伊豆市大平1529",
