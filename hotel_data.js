@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "カヌチャベイホテル＆ヴィラズ",
+    "area": "恩納・名護",
+    "address": "沖縄県名護市安部156-2",
+    "review": "4.41",
+    "review_count": 1375,
+    "min_charge": 8000,
+    "image": "https://trvimg.r10s.jp/share/image_up/29766/origin/558503043c1783d2118a15cc8b56368278e55888.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29766%2F"
+  },
+  {
     "name": "ザ・ブセナテラス",
     "area": "恩納・名護",
     "address": "沖縄県名護市喜瀬1808",
@@ -629,16 +639,6 @@ const HOTEL_LIST = [
     "min_charge": 5390,
     "image": "https://trvimg.r10s.jp/share/image_up/52229/origin/4d89cd65a695aa9948526b19140518701c7e0f5f.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52229%2F"
-  },
-  {
-    "name": "カヌチャベイホテル＆ヴィラズ",
-    "area": "恩納・名護",
-    "address": "沖縄県名護市安部156-2",
-    "review": "4.37",
-    "review_count": 1310,
-    "min_charge": 9000,
-    "image": "https://trvimg.r10s.jp/share/image_up/29766/origin/558503043c1783d2118a15cc8b56368278e55888.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29766%2F"
   },
   {
     "name": "ルネッサンスリゾートオキナワ",
