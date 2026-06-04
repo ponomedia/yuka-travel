@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "オリオンホテル　モトブリゾート＆スパ",
+    "area": "恩納・名護",
+    "address": "沖縄県国頭郡本部町備瀬148-1",
+    "review": "4.54",
+    "review_count": 859,
+    "min_charge": 14030,
+    "image": "https://trvimg.r10s.jp/share/image_up/145419/origin/ad1c95df164174a38ae9107b1ac1554ed7bd0ea0.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F145419%2F"
+  },
+  {
     "name": "ＡＱＵＡＳＥＮＳＥ　Ｈｏｔｅｌ　＆　Ｒｅｓｏｒｔ",
     "area": "恩納・名護",
     "address": "沖縄県国頭郡恩納村字冨着黒崎原86-1",
