@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "定山渓温泉　定山渓第一寶亭留　翠山亭",
+    "area": "定山渓",
+    "address": "北海道札幌市南区定山渓温泉西3-105",
+    "review": "4.45",
+    "review_count": 1424,
+    "min_charge": 16286,
+    "image": "https://trvimg.r10s.jp/share/image_up/875/origin/94ea48403c758357bd209559449b12624b27d3d6.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F875%2F"
+  },
+  {
     "name": "由布院温泉　和の宿　狭霧亭",
     "area": "湯布院",
     "address": "大分県由布市湯布院町川上811-1",
