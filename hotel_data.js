@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "由布院温泉　すみか",
+    "area": "湯布院",
+    "address": "大分県由布市湯布院町川上2059-3",
+    "review": "4.71",
+    "review_count": 912,
+    "min_charge": 23100,
+    "image": "https://trvimg.r10s.jp/share/image_up/130594/origin/83120f7056614128296fbb5db1c6962d490e2f6f.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130594%2F"
+  },
+  {
     "name": "由布院温泉　お宿　五輪花",
     "area": "湯布院",
     "address": "大分県由布市湯布院町川北177",
