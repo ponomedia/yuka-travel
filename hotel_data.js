@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "グランドブリッセンホテル定山渓",
+    "area": "定山渓",
+    "address": "北海道札幌市南区定山渓温泉東4-328",
+    "review": "4.52",
+    "review_count": 362,
+    "min_charge": 19100,
+    "image": "https://trvimg.r10s.jp/share/image_up/182458/origin/5f63ae3c301e99a1e8759c7bbc160777a22db130.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182458%2F"
+  },
+  {
     "name": "定山渓温泉　ぬくもりの宿　ふる川",
     "area": "定山渓",
     "address": "北海道札幌市南区定山渓温泉西4-353",
