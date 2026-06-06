@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "定山渓温泉　ぬくもりの宿　ふる川",
+    "area": "定山渓",
+    "address": "北海道札幌市南区定山渓温泉西4-353",
+    "review": "4.65",
+    "review_count": 1352,
+    "min_charge": 14220,
+    "image": "https://trvimg.r10s.jp/share/image_up/1037/origin/53049ad41a6b11e8746405b13017b9c1d10d56a5.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1037%2F"
+  },
+  {
     "name": "定山渓鶴雅リゾートスパ森の謌",
     "area": "定山渓",
     "address": "北海道札幌市南区定山渓温泉東3-192",
