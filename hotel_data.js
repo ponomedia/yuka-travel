@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "海のサウナ＆スパ　オールインクルーシブ　島原温泉ホテル南風楼",
+    "area": "雲仙・島原",
+    "address": "長崎県島原市弁天町2-7331-1",
+    "review": "4.64",
+    "review_count": 2579,
+    "min_charge": 7150,
+    "image": "https://trvimg.r10s.jp/share/image_up/878/origin/90be6e874d969525fbcec2ed8dbc1d094bf15608.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F878%2F"
+  },
+  {
     "name": "グランドブリッセンホテル定山渓",
     "area": "定山渓",
     "address": "北海道札幌市南区定山渓温泉東4-328",
