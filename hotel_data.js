@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ＨＯＴＥＬシーサイド島原",
+    "area": "雲仙・島原",
+    "address": "長崎県島原市新湊1-38-1",
+    "review": "4.47",
+    "review_count": 460,
+    "min_charge": 6370,
+    "image": "https://trvimg.r10s.jp/share/image_up/139921/origin/27856f9238a6188e0a51c0a06d929feef7e462bb.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139921%2F"
+  },
+  {
     "name": "雲仙温泉　ゆやど　雲仙新湯",
     "area": "雲仙・島原",
     "address": "長崎県雲仙市小浜町雲仙320",
@@ -919,16 +929,6 @@ const HOTEL_LIST = [
     "min_charge": 12100,
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/68224/68224.jpg",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68224%2F"
-  },
-  {
-    "name": "ＨＯＴＥＬシーサイド島原",
-    "area": "雲仙・島原",
-    "address": "長崎県島原市新湊1-38-1",
-    "review": "4.49",
-    "review_count": 430,
-    "min_charge": 6600,
-    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/139921/139921_kya.jpg",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139921%2F"
   },
   {
     "name": "雲仙温泉・源泉かけ流し＆おしどりの池を望む美食の宿　東園",
