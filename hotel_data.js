@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "雲仙温泉　民芸モダンの宿　雲仙福田屋",
+    "area": "雲仙・島原",
+    "address": "長崎県雲仙市小浜町雲仙380-2",
+    "review": "4.54",
+    "review_count": 826,
+    "min_charge": 9900,
+    "image": "https://trvimg.r10s.jp/share/image_up/6194/origin/46d0e6fc096225ff5b4a2c5fd263c47cfd01962b.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6194%2F"
+  },
+  {
     "name": "雲仙九州ホテル",
     "area": "雲仙・島原",
     "address": "長崎県雲仙市小浜町雲仙320",
@@ -919,16 +929,6 @@ const HOTEL_LIST = [
     "min_charge": 8662,
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/31749/31749.jpg",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31749%2F"
-  },
-  {
-    "name": "雲仙温泉　民芸モダンの宿　雲仙福田屋",
-    "area": "雲仙・島原",
-    "address": "長崎県雲仙市小浜町雲仙380-2",
-    "review": "4.6",
-    "review_count": 802,
-    "min_charge": 12100,
-    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/6194/6194.jpg",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6194%2F"
   },
   {
     "name": "雲仙温泉・源泉かけ流し＆おしどりの池を望む美食の宿　東園",
