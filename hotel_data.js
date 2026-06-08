@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "豊岡グリーンホテルモーリス",
+    "area": "城崎温泉",
+    "address": "兵庫県豊岡市千代田町6-32",
+    "review": "4.54",
+    "review_count": 2326,
+    "min_charge": 5005,
+    "image": "https://trvimg.r10s.jp/share/image_up/145406/MIDDLE/W4Pl2r.jpeg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F145406%2F"
+  },
+  {
     "name": "ＨＯＴＥＬシーサイド島原",
     "area": "雲仙・島原",
     "address": "長崎県島原市新湊1-38-1",
