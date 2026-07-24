@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "別府鉄輪温泉　山荘　神和苑",
+    "area": "別府",
+    "address": "大分県別府市鉄輪345",
+    "review": "4.47",
+    "review_count": 689,
+    "min_charge": 15950,
+    "image": "https://trvimg.r10s.jp/share/image_up/158425/origin/287edade2ae739777367b96947d2913031327af7.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158425%2F"
+  },
+  {
     "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
     "area": "別府",
     "address": "大分県別府市駅前本町2-6",
