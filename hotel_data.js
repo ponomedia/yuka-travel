@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "グランヴィリオホテル別府湾　和蔵　ールートインホテルズー",
+    "area": "別府",
+    "address": "大分県速見郡日出町大字平道1780-1",
+    "review": "4.58",
+    "review_count": 1052,
+    "min_charge": 7000,
+    "image": "https://trvimg.r10s.jp/share/image_up/183018/origin/b4f8b2e825aa3b2de6931e8e5b489733ea8aea63.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183018%2F"
+  },
+  {
     "name": "別府鉄輪温泉　山荘　神和苑",
     "area": "別府",
     "address": "大分県別府市鉄輪345",
