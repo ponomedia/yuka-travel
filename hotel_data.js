@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ホテルグランビナリオＫＯＭＡＴＳＵ",
+    "area": "加賀温泉",
+    "address": "石川県小松市土居原町10-10",
+    "review": "4.33",
+    "review_count": 548,
+    "min_charge": 5900,
+    "image": "https://trvimg.r10s.jp/share/image_up/165187/origin/e85c7112165d7a6d8922fd75e30f61aa02e42acd.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165187%2F"
+  },
+  {
     "name": "山代温泉　ゆのくに天祥",
     "area": "加賀温泉",
     "address": "石川県加賀市山代温泉19-49-1",
