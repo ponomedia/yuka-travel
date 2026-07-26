@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "奥日光　ホテル四季彩",
+    "area": "日光・鬼怒川",
+    "address": "栃木県日光市中宮祠2485",
+    "review": "4.32",
+    "review_count": 2299,
+    "min_charge": 9900,
+    "image": "https://trvimg.r10s.jp/share/image_up/13462/origin/8fffb854119700945fd9daf88c3d6cc2d3e76ae8.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13462%2F"
+  },
+  {
     "name": "山中温泉　かがり吉祥亭",
     "area": "加賀温泉",
     "address": "石川県加賀市山中温泉こおろぎ町ニ1-1",
