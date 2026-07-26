@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "日光金谷ホテル",
+    "area": "日光・鬼怒川",
+    "address": "栃木県日光市上鉢石町1300",
+    "review": "4.51",
+    "review_count": 857,
+    "min_charge": 13100,
+    "image": "https://trvimg.r10s.jp/share/image_up/28760/origin/311f2a60f12b60b2b52b8061eca3fe3f733b1ab2.47.1.26.2.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28760%2F"
+  },
+  {
     "name": "奥日光　ホテル四季彩",
     "area": "日光・鬼怒川",
     "address": "栃木県日光市中宮祠2485",
