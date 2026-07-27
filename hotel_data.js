@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "赤城天然温泉　ハナホテル＆スパ渋川",
+    "area": "伊香保温泉",
+    "address": "群馬県渋川市赤城町宮田850-3",
+    "review": "4.4",
+    "review_count": 1115,
+    "min_charge": 5300,
+    "image": "https://trvimg.r10s.jp/share/image_up/196707/origin/d2be9b7bb535aa96a10b947383c0178a4b72547c.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196707%2F"
+  },
+  {
     "name": "伊香保温泉　ホテル松本楼",
     "area": "伊香保温泉",
     "address": "群馬県渋川市伊香保町伊香保164",
@@ -439,16 +449,6 @@ const HOTEL_LIST = [
     "min_charge": 10500,
     "image": "https://trvimg.r10s.jp/share/image_up/6213/origin/ef2d617041c9c40422d4c41ce3796f1cc804eb1e.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6213%2F"
-  },
-  {
-    "name": "赤城天然温泉　ハナホテル＆スパ渋川",
-    "area": "伊香保温泉",
-    "address": "群馬県渋川市赤城町宮田850-3",
-    "review": "4.39",
-    "review_count": 923,
-    "min_charge": 5600,
-    "image": "https://trvimg.r10s.jp/share/image_up/196707/origin/d2be9b7bb535aa96a10b947383c0178a4b72547c.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196707%2F"
   },
   {
     "name": "伊香保温泉　福一",
