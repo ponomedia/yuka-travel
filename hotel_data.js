@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "岸権旅館　石段街隣接　希少源泉「黄金の湯」の宿",
+    "area": "伊香保温泉",
+    "address": "群馬県渋川市伊香保町伊香保甲48",
+    "review": "4.56",
+    "review_count": 1601,
+    "min_charge": 8800,
+    "image": "https://trvimg.r10s.jp/share/image_up/6267/origin/45d85e9d91825ef72d6958b47ded1e3f35e404bc.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6267%2F"
+  },
+  {
     "name": "伊香保温泉　心に咲く花　古久家（こくや）",
     "area": "伊香保温泉",
     "address": "群馬県渋川市伊香保町伊香保52",
