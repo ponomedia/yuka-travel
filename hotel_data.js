@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "草津温泉　源泉一乃湯",
+    "area": "草津温泉",
+    "address": "群馬県吾妻郡草津町草津135",
+    "review": "4.6",
+    "review_count": 580,
+    "min_charge": 13300,
+    "image": "https://trvimg.r10s.jp/share/image_up/176541/origin/5db740a79b76617884089919e0ac255a1653eeaf.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F176541%2F"
+  },
+  {
     "name": "草津温泉　ホテルヴィレッジ",
     "area": "草津温泉",
     "address": "群馬県吾妻郡草津町大字草津618番地",
@@ -699,16 +709,6 @@ const HOTEL_LIST = [
     "min_charge": 4000,
     "image": "https://trvimg.r10s.jp/share/image_up/181293/origin/861af993b73554c219551a878c333b9628980195.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181293%2F"
-  },
-  {
-    "name": "草津温泉　源泉一乃湯",
-    "area": "草津温泉",
-    "address": "群馬県吾妻郡草津町草津135",
-    "review": "4.55",
-    "review_count": 525,
-    "min_charge": 9660,
-    "image": "https://trvimg.r10s.jp/share/image_up/176541/origin/5db740a79b76617884089919e0ac255a1653eeaf.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F176541%2F"
   },
   {
     "name": "草津温泉　ホテル櫻井",
