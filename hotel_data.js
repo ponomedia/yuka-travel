@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "草津温泉　草津ナウリゾートホテル",
+    "area": "草津温泉",
+    "address": "群馬県吾妻郡草津町草津白根750",
+    "review": "4.4",
+    "review_count": 3080,
+    "min_charge": 16850,
+    "image": "https://trvimg.r10s.jp/share/image_up/9598/origin/c1c6e2c0ee75f658ce27be0441f9babfcf531ab0.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9598%2F"
+  },
+  {
     "name": "岸権旅館　石段街隣接　希少源泉「黄金の湯」の宿",
     "area": "伊香保温泉",
     "address": "群馬県渋川市伊香保町伊香保甲48",
@@ -689,16 +699,6 @@ const HOTEL_LIST = [
     "min_charge": 9660,
     "image": "https://trvimg.r10s.jp/share/image_up/176541/origin/5db740a79b76617884089919e0ac255a1653eeaf.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F176541%2F"
-  },
-  {
-    "name": "草津温泉　草津ナウリゾートホテル",
-    "area": "草津温泉",
-    "address": "群馬県吾妻郡草津町草津白根750",
-    "review": "4.41",
-    "review_count": 2953,
-    "min_charge": 16500,
-    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/9598/9598_kan.jpg",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9598%2F"
   },
   {
     "name": "草津温泉　ホテル櫻井",
