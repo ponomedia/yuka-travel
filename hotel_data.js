@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "草津温泉　望雲",
+    "area": "草津温泉",
+    "address": "群馬県吾妻郡草津町433-1",
+    "review": "4.67",
+    "review_count": 1314,
+    "min_charge": 18700,
+    "image": "https://trvimg.r10s.jp/share/image_up/4904/origin/2265f79a8bb14cd18f694d46c2aca598d6d88a90.47.1.26.2.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4904%2F"
+  },
+  {
     "name": "草津温泉　源泉一乃湯",
     "area": "草津温泉",
     "address": "群馬県吾妻郡草津町草津135",
