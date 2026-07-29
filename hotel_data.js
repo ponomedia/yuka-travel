@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "湯宿　季の庭（共立リゾート）",
+    "area": "草津温泉",
+    "address": "群馬県吾妻郡草津町草津464-214",
+    "review": "4.43",
+    "review_count": 1714,
+    "min_charge": 27665,
+    "image": "https://trvimg.r10s.jp/share/image_up/107756/origin/066f76aa4fb231cd549f8a7239f4d0e2537daf50.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107756%2F"
+  },
+  {
     "name": "草津温泉　望雲",
     "area": "草津温泉",
     "address": "群馬県吾妻郡草津町433-1",
