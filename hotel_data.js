@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "城崎温泉　旅館　お宿　白山",
+    "area": "城崎温泉",
+    "address": "兵庫県豊岡市城崎町今津548-1",
+    "review": "4.31",
+    "review_count": 2608,
+    "min_charge": 11000,
+    "image": "https://trvimg.r10s.jp/share/image_up/18819/origin/ef72143b8b712ebe2727753254afae743ceaa46c.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18819%2F"
+  },
+  {
     "name": "湯宿　季の庭（共立リゾート）",
     "area": "草津温泉",
     "address": "群馬県吾妻郡草津町草津464-214",
