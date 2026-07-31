@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "強羅温泉　強羅にごりの湯宿　のうのう箱根",
+    "area": "箱根",
+    "address": "神奈川県足柄下郡箱根町強羅1320-1080",
+    "review": "4.33",
+    "review_count": 2379,
+    "min_charge": 14500,
+    "image": "https://trvimg.r10s.jp/share/image_up/138119/origin/3e32e94b12f2a1aff8f565330abebccf9216eb00.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F138119%2F"
+  },
+  {
     "name": "ＥＮ　ＲＥＳＯＲＴ　Ｒｅ’Ｃｏｖｅ　Ｈａｋｏｎｅ（旧：リ・カーヴ箱根）",
     "area": "箱根",
     "address": "神奈川県足柄下郡箱根町仙石原934-25",
