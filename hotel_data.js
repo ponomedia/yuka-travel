@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "富士屋ホテル",
+    "area": "箱根",
+    "address": "神奈川県足柄下郡箱根町宮ノ下359",
+    "review": "4.81",
+    "review_count": 2232,
+    "min_charge": 26664,
+    "image": "https://trvimg.r10s.jp/share/image_up/1727/origin/961a354632e07d8ae853a11930e29f06424c4d53.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1727%2F"
+  },
+  {
     "name": "城崎温泉　旅館　お宿　白山",
     "area": "城崎温泉",
     "address": "兵庫県豊岡市城崎町今津548-1",
@@ -799,16 +809,6 @@ const HOTEL_LIST = [
     "min_charge": 6597,
     "image": "https://trvimg.r10s.jp/share/image_up/30804/origin/9334bee6d5cd78539d75bf1cf137a23e6f2fd94e.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30804%2F"
-  },
-  {
-    "name": "富士屋ホテル",
-    "area": "箱根",
-    "address": "神奈川県足柄下郡箱根町宮ノ下359",
-    "review": "4.78",
-    "review_count": 2154,
-    "min_charge": 28886,
-    "image": "https://trvimg.r10s.jp/share/image_up/1727/origin/961a354632e07d8ae853a11930e29f06424c4d53.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1727%2F"
   },
   {
     "name": "箱根ホテル小涌園",
