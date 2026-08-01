@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "熱海温泉　熱海後楽園ホテル",
+    "area": "熱海",
+    "address": "静岡県熱海市和田浜南町10-1",
+    "review": "4.4",
+    "review_count": 3016,
+    "min_charge": 15290,
+    "image": "https://trvimg.r10s.jp/share/image_up/1656/origin/3a7675678d2b55ce9df769ba8853b588d2c971b8.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1656%2F"
+  },
+  {
     "name": "ホテルニューアカオ",
     "area": "熱海",
     "address": "静岡県熱海市熱海1993-250",
