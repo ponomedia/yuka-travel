@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ホテルリゾーピア　熱海",
+    "area": "熱海",
+    "address": "静岡県熱海市東海岸町13-93",
+    "review": "3.99",
+    "review_count": 2348,
+    "min_charge": 6300,
+    "image": "https://trvimg.r10s.jp/share/image_up/50212/origin/b77307e8f3e73ad86d4e03c30890639c8cc59413.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50212%2F"
+  },
+  {
     "name": "熱海温泉　味と湯の宿　ニューとみよし",
     "area": "熱海",
     "address": "静岡県熱海市下多賀1472-1",
