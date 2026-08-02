@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "絶景掛け流しの宿　熱海月右衛門",
+    "area": "熱海",
+    "address": "静岡県熱海市西熱海町1-5-16",
+    "review": "4.37",
+    "review_count": 7862,
+    "min_charge": 17300,
+    "image": "https://trvimg.r10s.jp/share/image_up/149439/origin/d013f4d32b1ba6829defa188876f1246ef91eb5f.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149439%2F"
+  },
+  {
     "name": "リブマックスリゾート熱海Ｏｃｅａｎ",
     "area": "熱海",
     "address": "静岡県熱海市渚町22-8",
