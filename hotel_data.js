@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "熱海倶楽部　迎賓館",
+    "area": "熱海",
+    "address": "静岡県熱海市伊豆山1171",
+    "review": "4.56",
+    "review_count": 4383,
+    "min_charge": 29700,
+    "image": "https://trvimg.r10s.jp/share/image_up/75291/origin/c3a45a38e1aa64ea3755f3578960f5890c73b328.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F75291%2F"
+  },
+  {
     "name": "絶景掛け流しの宿　熱海月右衛門",
     "area": "熱海",
     "address": "静岡県熱海市西熱海町1-5-16",
