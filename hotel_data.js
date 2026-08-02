@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "熱海温泉　月の栖　熱海聚楽ホテル",
+    "area": "熱海",
+    "address": "静岡県熱海市田原本町2-19",
+    "review": "4.42",
+    "review_count": 2568,
+    "min_charge": 15400,
+    "image": "https://trvimg.r10s.jp/share/image_up/859/origin/ce3e7cec3a3f1493b39768ee708408123a58a2a2.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F859%2F"
+  },
+  {
     "name": "ホテルリゾーピア　熱海",
     "area": "熱海",
     "address": "静岡県熱海市東海岸町13-93",
