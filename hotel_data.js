@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "由布院温泉　朝霧のみえる宿　ゆふいん花由",
+    "area": "湯布院",
+    "address": "大分県由布市湯布院町川北913-11",
+    "review": "4.67",
+    "review_count": 1087,
+    "min_charge": 22000,
+    "image": "https://trvimg.r10s.jp/share/image_up/76377/origin/73d840fe653a9eb123cec0328cde681e951e7c05.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F76377%2F"
+  },
+  {
     "name": "由布院温泉　お宿　五輪花",
     "area": "湯布院",
     "address": "大分県由布市湯布院町川北177",
