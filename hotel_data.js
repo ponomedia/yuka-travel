@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "草津温泉　ホテル櫻井",
+    "area": "草津温泉",
+    "address": "群馬県吾妻郡草津町大字草津465-4",
+    "review": "4.5",
+    "review_count": 4870,
+    "min_charge": 14300,
+    "image": "https://trvimg.r10s.jp/share/image_up/56137/origin/266e76ab0e751e5a1f1b96109d86e1344fb94722.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F56137%2F"
+  },
+  {
     "name": "由布院温泉　朝霧のみえる宿　ゆふいん花由",
     "area": "湯布院",
     "address": "大分県由布市湯布院町川北913-11",
@@ -839,16 +849,6 @@ const HOTEL_LIST = [
     "min_charge": 4000,
     "image": "https://trvimg.r10s.jp/share/image_up/181293/origin/861af993b73554c219551a878c333b9628980195.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181293%2F"
-  },
-  {
-    "name": "草津温泉　ホテル櫻井",
-    "area": "草津温泉",
-    "address": "群馬県吾妻郡草津町大字草津465-4",
-    "review": "4.51",
-    "review_count": 4635,
-    "min_charge": 14300,
-    "image": "https://trvimg.r10s.jp/share/image_up/56137/origin/266e76ab0e751e5a1f1b96109d86e1344fb94722.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F56137%2F"
   },
   {
     "name": "指宿温泉　休暇村　指宿",
