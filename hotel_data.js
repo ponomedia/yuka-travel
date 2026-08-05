@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ハレクラニ沖縄",
+    "area": "恩納・名護",
+    "address": "沖縄県国頭郡恩納村名嘉真1967-1",
+    "review": "4.81",
+    "review_count": 693,
+    "min_charge": 36021,
+    "image": "https://trvimg.r10s.jp/share/image_up/172611/origin/c664c0be883ab7a6d07aa1a9f897e18234d33b48.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172611%2F"
+  },
+  {
     "name": "カヌチャベイホテル＆ヴィラズ",
     "area": "恩納・名護",
     "address": "沖縄県名護市安部156-2",
@@ -659,16 +669,6 @@ const HOTEL_LIST = [
     "min_charge": 18400,
     "image": "https://trvimg.r10s.jp/share/image_up/54315/origin/75a61f1a830ecb1e6542125423bdfc4554e8b85c.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54315%2F"
-  },
-  {
-    "name": "ハレクラニ沖縄",
-    "area": "恩納・名護",
-    "address": "沖縄県国頭郡恩納村名嘉真1967-1",
-    "review": "4.83",
-    "review_count": 640,
-    "min_charge": 29095,
-    "image": "https://trvimg.r10s.jp/share/image_up/172611/origin/c664c0be883ab7a6d07aa1a9f897e18234d33b48.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172611%2F"
   },
   {
     "name": "伊香保温泉　千明仁泉亭（ちぎらじんせんてい）",
