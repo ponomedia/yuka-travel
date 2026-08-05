@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "リザン　シーパークホテル谷茶ベイ",
+    "area": "恩納・名護",
+    "address": "沖縄県国頭郡恩納村谷茶1496",
+    "review": "4.39",
+    "review_count": 3245,
+    "min_charge": 6930,
+    "image": "https://trvimg.r10s.jp/share/image_up/52229/origin/4d89cd65a695aa9948526b19140518701c7e0f5f.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52229%2F"
+  },
+  {
     "name": "ハレクラニ沖縄",
     "area": "恩納・名護",
     "address": "沖縄県国頭郡恩納村名嘉真1967-1",
@@ -649,16 +659,6 @@ const HOTEL_LIST = [
     "min_charge": 6804,
     "image": "https://trvimg.r10s.jp/share/image_up/180687/origin/4a000c015da5813ccb8a3b16ea31bc6d32c206c4.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180687%2F"
-  },
-  {
-    "name": "リザン　シーパークホテル谷茶ベイ",
-    "area": "恩納・名護",
-    "address": "沖縄県国頭郡恩納村谷茶1496",
-    "review": "4.42",
-    "review_count": 3068,
-    "min_charge": 5830,
-    "image": "https://trvimg.r10s.jp/share/image_up/52229/origin/4d89cd65a695aa9948526b19140518701c7e0f5f.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52229%2F"
   },
   {
     "name": "ルネッサンスリゾートオキナワ",
