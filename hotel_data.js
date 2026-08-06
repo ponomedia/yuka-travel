@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "神戸須磨シーワールドホテル",
+    "area": "有馬温泉・神戸",
+    "address": "兵庫県神戸市須磨区若宮町1-3-5",
+    "review": "4.79",
+    "review_count": 529,
+    "min_charge": 17900,
+    "image": "https://trvimg.r10s.jp/share/image_up/188973/origin/a21f7e4f9779b42d4a9a16413d8adfad7a87deec.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188973%2F"
+  },
+  {
     "name": "有馬温泉　御幸荘　花結び",
     "area": "有馬温泉・神戸",
     "address": "兵庫県神戸市北区有馬町351",
