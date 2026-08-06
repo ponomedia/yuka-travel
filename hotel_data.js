@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "天然温泉　浪漫湯　ドーミーイン神戸元町（ドーミーイン・野乃グループ）",
+    "area": "有馬温泉・神戸",
+    "address": "兵庫県神戸市中央区栄町通2-5-1",
+    "review": "4.53",
+    "review_count": 1709,
+    "min_charge": 5750,
+    "image": "https://trvimg.r10s.jp/share/image_up/179274/origin/82dc050f333ac550bbb4ca1541123ad41102bc75.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179274%2F"
+  },
+  {
     "name": "オリエンタルホテル　沖縄リゾート＆スパ",
     "area": "恩納・名護",
     "address": "沖縄県名護市喜瀬1490-1",
