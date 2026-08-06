@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "有馬温泉　御幸荘　花結び",
+    "area": "有馬温泉・神戸",
+    "address": "兵庫県神戸市北区有馬町351",
+    "review": "4.35",
+    "review_count": 2588,
+    "min_charge": 23570,
+    "image": "https://trvimg.r10s.jp/share/image_up/9576/origin/1691978d5cfb78272fa29976c9e8f1e8b3ff3b06.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9576%2F"
+  },
+  {
     "name": "天然温泉　浪漫湯　ドーミーイン神戸元町（ドーミーイン・野乃グループ）",
     "area": "有馬温泉・神戸",
     "address": "兵庫県神戸市中央区栄町通2-5-1",
