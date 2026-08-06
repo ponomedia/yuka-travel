@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "神戸牛と有馬温泉　天然金泉・銀泉の宿　有馬御苑",
+    "area": "有馬温泉・神戸",
+    "address": "兵庫県神戸市北区有馬町1296",
+    "review": "4.39",
+    "review_count": 2733,
+    "min_charge": 9900,
+    "image": "https://trvimg.r10s.jp/share/image_up/1206/origin/2710f8f6e344451cb4a5efd46e293f414e014fe3.47.1.26.2.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1206%2F"
+  },
+  {
     "name": "神戸須磨シーワールドホテル",
     "area": "有馬温泉・神戸",
     "address": "兵庫県神戸市須磨区若宮町1-3-5",
