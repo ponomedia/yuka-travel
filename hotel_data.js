@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "オリエンタルホテル　沖縄リゾート＆スパ",
+    "area": "恩納・名護",
+    "address": "沖縄県名護市喜瀬1490-1",
+    "review": "4.48",
+    "review_count": 860,
+    "min_charge": 23220,
+    "image": "https://trvimg.r10s.jp/share/image_up/182630/origin/d3e3a2ee5ef891c031dca4bcc637908c31880123.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182630%2F"
+  },
+  {
     "name": "オリオンホテル　モトブリゾート＆スパ",
     "area": "恩納・名護",
     "address": "沖縄県国頭郡本部町備瀬148-1",
