@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ホテルオークラ神戸",
+    "area": "有馬温泉・神戸",
+    "address": "兵庫県神戸市中央区波止場町2-1  メリケンパーク内",
+    "review": "4.58",
+    "review_count": 8771,
+    "min_charge": 6545,
+    "image": "https://trvimg.r10s.jp/share/image_up/1648/origin/b11420c76df76ee55b99232d4f13fa21a055e60a.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1648%2F"
+  },
+  {
     "name": "ＳＫ　ＨＯＴＥＬ　神戸駅前",
     "area": "有馬温泉・神戸",
     "address": "兵庫県神戸市中央区中町通2-3-1",
