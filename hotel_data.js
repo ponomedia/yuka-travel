@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ＳＫ　ＨＯＴＥＬ　神戸駅前",
+    "area": "有馬温泉・神戸",
+    "address": "兵庫県神戸市中央区中町通2-3-1",
+    "review": "4.36",
+    "review_count": 1375,
+    "min_charge": 4050,
+    "image": "https://trvimg.r10s.jp/share/image_up/187918/origin/511f2515985537e201b6b46f7f4a4478f3db0ef6.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187918%2F"
+  },
+  {
     "name": "有馬街道　自家源泉の宿　月への舟",
     "area": "有馬温泉・神戸",
     "address": "兵庫県神戸市北区有野町唐櫃4509-87",
