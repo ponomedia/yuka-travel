@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "神戸ホテルジュラク",
+    "area": "有馬温泉・神戸",
+    "address": "兵庫県神戸市中央区東川崎町1-1-1",
+    "review": "4.54",
+    "review_count": 1465,
+    "min_charge": 4000,
+    "image": "https://trvimg.r10s.jp/share/image_up/181293/origin/861af993b73554c219551a878c333b9628980195.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181293%2F"
+  },
+  {
     "name": "神戸牛と有馬温泉　天然金泉・銀泉の宿　有馬御苑",
     "area": "有馬温泉・神戸",
     "address": "兵庫県神戸市北区有馬町1296",
@@ -889,16 +899,6 @@ const HOTEL_LIST = [
     "min_charge": 6730,
     "image": "https://trvimg.r10s.jp/share/image_up/8978/origin/b184b342d31556f2195e0b33cd45e924323f56a5.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8978%2F"
-  },
-  {
-    "name": "神戸ホテルジュラク",
-    "area": "有馬温泉・神戸",
-    "address": "兵庫県神戸市中央区東川崎町1-1-1",
-    "review": "4.51",
-    "review_count": 1282,
-    "min_charge": 4000,
-    "image": "https://trvimg.r10s.jp/share/image_up/181293/origin/861af993b73554c219551a878c333b9628980195.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181293%2F"
   },
   {
     "name": "指宿温泉　休暇村　指宿",
