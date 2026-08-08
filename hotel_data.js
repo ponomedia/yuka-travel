@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "定山渓　花もみじ",
+    "area": "定山渓",
+    "address": "北海道札幌市南区定山渓温泉西3丁目32番地",
+    "review": "4.51",
+    "review_count": 1178,
+    "min_charge": 17500,
+    "image": "https://trvimg.r10s.jp/share/image_up/54584/origin/044995dad2d779b816615f4535ea2483377e788c.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54584%2F"
+  },
+  {
     "name": "定山渓温泉　ぬくもりの宿　ふる川",
     "area": "定山渓",
     "address": "北海道札幌市南区定山渓温泉西4-353",
@@ -709,16 +719,6 @@ const HOTEL_LIST = [
     "min_charge": 22112,
     "image": "https://trvimg.r10s.jp/share/image_up/107757/origin/64c164aa21116d52425ea5d5d806df7be9f5e229.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107757%2F"
-  },
-  {
-    "name": "定山渓　花もみじ",
-    "area": "定山渓",
-    "address": "北海道札幌市南区定山渓温泉西3丁目32番地",
-    "review": "4.38",
-    "review_count": 1155,
-    "min_charge": 17500,
-    "image": "https://trvimg.r10s.jp/share/image_up/54584/origin/044995dad2d779b816615f4535ea2483377e788c.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54584%2F"
   },
   {
     "name": "由布院温泉　和の宿　狭霧亭",
