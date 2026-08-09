@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ラ・ジェント・ステイ函館駅前",
+    "area": "函館",
+    "address": "北海道函館市若松町12-8",
+    "review": "4.36",
+    "review_count": 1642,
+    "min_charge": 5700,
+    "image": "https://trvimg.r10s.jp/share/image_up/177009/origin/82cd5bfcd1ceaae2f9fbb80e8f5618e06a02a9e8.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177009%2F"
+  },
+  {
     "name": "ラビスタ函館ベイ（共立リゾート）",
     "area": "函館",
     "address": "北海道函館市豊川町12-6",
