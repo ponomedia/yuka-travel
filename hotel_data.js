@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ＪＲイン函館",
+    "area": "函館",
+    "address": "北海道函館市若松町12番14号",
+    "review": "4.55",
+    "review_count": 1545,
+    "min_charge": 6000,
+    "image": "https://trvimg.r10s.jp/share/image_up/177807/origin/93c96a0067dfc35c1c57726290601067eb0a8eae.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177807%2F"
+  },
+  {
     "name": "函館湯の川温泉　海と灯／ヒューイットリゾート",
     "area": "函館",
     "address": "北海道函館市湯川町3-9-20",
