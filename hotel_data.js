@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ラビスタ函館ベイ（共立リゾート）",
+    "area": "函館",
+    "address": "北海道函館市豊川町12-6",
+    "review": "4.48",
+    "review_count": 5462,
+    "min_charge": 14754,
+    "image": "https://trvimg.r10s.jp/share/image_up/69295/origin/fd0223bfd3d07c4093559f1c038650426c0bc35c.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F69295%2F"
+  },
+  {
     "name": "ＪＲイン函館",
     "area": "函館",
     "address": "北海道函館市若松町12番14号",
@@ -1049,16 +1059,6 @@ const HOTEL_LIST = [
     "min_charge": 4641,
     "image": "https://trvimg.r10s.jp/share/image_up/137023/origin/85bebdb28da48bed01b7c82b484f0d17775bcc6e.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137023%2F"
-  },
-  {
-    "name": "ラビスタ函館ベイ（共立リゾート）",
-    "area": "函館",
-    "address": "北海道函館市豊川町12-6",
-    "review": "4.45",
-    "review_count": 5277,
-    "min_charge": 11063,
-    "image": "https://trvimg.r10s.jp/share/image_up/69295/origin/fd0223bfd3d07c4093559f1c038650426c0bc35c.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F69295%2F"
   },
   {
     "name": "粟津温泉　旅亭懐石　のとや",
