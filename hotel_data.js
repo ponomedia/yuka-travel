@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "日光中禅寺温泉　中禅寺金谷ホテル",
+    "area": "日光・鬼怒川",
+    "address": "栃木県日光市中宮祠2482",
+    "review": "4.49",
+    "review_count": 864,
+    "min_charge": 16070,
+    "image": "https://trvimg.r10s.jp/share/image_up/28759/MIDDLE/s9BjlX.jpeg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28759%2F"
+  },
+  {
     "name": "日光温泉　日光千姫物語",
     "area": "日光・鬼怒川",
     "address": "栃木県日光市安川町6-48",
