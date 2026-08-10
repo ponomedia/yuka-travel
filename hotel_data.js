@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "雲仙温泉　白濁源泉掛け流し美肌露天風呂　青雲荘",
+    "area": "雲仙・島原",
+    "address": "長崎県雲仙市小浜町雲仙500-1",
+    "review": "4.33",
+    "review_count": 1046,
+    "min_charge": 15800,
+    "image": "https://trvimg.r10s.jp/share/image_up/108194/origin/fb99adfcc13722595502670ea04dba6ee0c83b6f.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108194%2F"
+  },
+  {
     "name": "海のサウナ＆スパ　オールインクルーシブ　島原温泉ホテル南風楼",
     "area": "雲仙・島原",
     "address": "長崎県島原市弁天町2-7331-1",
@@ -779,16 +789,6 @@ const HOTEL_LIST = [
     "min_charge": 23100,
     "image": "https://trvimg.r10s.jp/share/image_up/4915/origin/6c715394627c4c25e203f8125a103837fb2d4224.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4915%2F"
-  },
-  {
-    "name": "雲仙温泉　白濁源泉掛け流し美肌露天風呂　青雲荘",
-    "area": "雲仙・島原",
-    "address": "長崎県雲仙市小浜町雲仙500-1",
-    "review": "4.34",
-    "review_count": 982,
-    "min_charge": 15800,
-    "image": "https://trvimg.r10s.jp/share/image_up/108194/origin/fb99adfcc13722595502670ea04dba6ee0c83b6f.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108194%2F"
   },
   {
     "name": "由布院温泉　和の宿　狭霧亭",
