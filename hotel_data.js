@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "グランヴィリオリゾート石垣島　Ｏｃｅａｎ’ｓ　Ｗｉｎｇ　＆　Ｖｉｌｌａ　Ｇａｒｄｅｎ＜石垣島＞",
+    "area": "石垣・西表",
+    "address": "沖縄県石垣市新川舟蔵2481-1",
+    "review": "4.46",
+    "review_count": 1203,
+    "min_charge": 8300,
+    "image": "https://trvimg.r10s.jp/share/image_up/69360/origin/73194b0aa7a222c6d2244c91677319e92b96190d.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F69360%2F"
+  },
+  {
     "name": "ＡＮＡインターコンチネンタル石垣リゾート　ｂｙ　ＩＨＧ　＜石垣島＞",
     "area": "石垣・西表",
     "address": "沖縄県石垣市真栄里354-1",
