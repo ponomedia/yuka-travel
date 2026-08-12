@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "フサキビーチリゾート　ホテル＆ヴィラズ　＜石垣島＞",
+    "area": "石垣・西表",
+    "address": "沖縄県石垣市新川1625番地",
+    "review": "4.61",
+    "review_count": 1542,
+    "min_charge": 13490,
+    "image": "https://trvimg.r10s.jp/share/image_up/38599/origin/78440b67d7c3aaa5aa5d2c671eb061c819c11243.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38599%2F"
+  },
+  {
     "name": "小浜温泉　海を見渡す個室露天の宿　伊勢屋",
     "area": "雲仙・島原",
     "address": "長崎県雲仙市小浜町北本町905",
