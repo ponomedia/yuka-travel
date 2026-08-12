@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ＡＮＡインターコンチネンタル石垣リゾート　ｂｙ　ＩＨＧ　＜石垣島＞",
+    "area": "石垣・西表",
+    "address": "沖縄県石垣市真栄里354-1",
+    "review": "4.4",
+    "review_count": 1492,
+    "min_charge": 15400,
+    "image": "https://trvimg.r10s.jp/share/image_up/1973/origin/fc1a7866a42a8732ea991dc219b9333d9e0aea99.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1973%2F"
+  },
+  {
     "name": "フサキビーチリゾート　ホテル＆ヴィラズ　＜石垣島＞",
     "area": "石垣・西表",
     "address": "沖縄県石垣市新川1625番地",
