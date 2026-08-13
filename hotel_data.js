@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "由布院温泉　ゆふいん山水館",
+    "area": "湯布院",
+    "address": "大分県由布市湯布院町大字川南108-1",
+    "review": "4.35",
+    "review_count": 874,
+    "min_charge": 8800,
+    "image": "https://trvimg.r10s.jp/share/image_up/1678/origin/e4d0a19bf50f77d43dcf1aad9034b0e7fd72d6f1.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1678%2F"
+  },
+  {
     "name": "南の美ら花　ホテル　ミヤヒラ　＜石垣島＞",
     "area": "石垣・西表",
     "address": "沖縄県石垣市美崎町4-9",
