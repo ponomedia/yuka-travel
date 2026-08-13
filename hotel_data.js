@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "由布院温泉　山荘　四季庵",
+    "area": "湯布院",
+    "address": "大分県由布市湯布院町塚原字黒笠木135-7",
+    "review": "4.56",
+    "review_count": 689,
+    "min_charge": 13500,
+    "image": "https://trvimg.r10s.jp/share/image_up/41833/origin/771d9bd8b12fb0ad50e64ce92a6de626cee67e88.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41833%2F"
+  },
+  {
     "name": "由布院温泉　ゆふいん山水館",
     "area": "湯布院",
     "address": "大分県由布市湯布院町大字川南108-1",
