@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "函館国際ホテル",
+    "area": "函館",
+    "address": "北海道函館市大手町5-10",
+    "review": "4.32",
+    "review_count": 3923,
+    "min_charge": 7092,
+    "image": "https://trvimg.r10s.jp/share/image_up/1341/origin/2425c6d2717fe06e1392785625eead135c8dd400.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1341%2F"
+  },
+  {
     "name": "由布院温泉　柚富の郷　彩岳館",
     "area": "湯布院",
     "address": "大分県由布市湯布院町川上2378-1",
