@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "湯の川温泉　湯の川プリンスホテル渚亭",
+    "area": "函館",
+    "address": "北海道函館市湯川町1-2-25",
+    "review": "4.49",
+    "review_count": 2310,
+    "min_charge": 8200,
+    "image": "https://trvimg.r10s.jp/share/image_up/5842/origin/4308bd383af14870c25d90e0ceb6a76e9bb85545.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5842%2F"
+  },
+  {
     "name": "湯の川温泉　花びしホテル",
     "area": "函館",
     "address": "北海道函館市湯川町1丁目16番18号",
