@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "東急ステイ函館朝市　灯の湯（あかりのゆ）",
+    "area": "函館",
+    "address": "北海道函館市大手町22-1-1",
+    "review": "4.42",
+    "review_count": 759,
+    "min_charge": 6560,
+    "image": "https://trvimg.r10s.jp/share/image_up/179583/origin/53959373859bfaa919f50f7e335742b2fedc5b51.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179583%2F"
+  },
+  {
     "name": "湯の川温泉　湯の川プリンスホテル渚亭",
     "area": "函館",
     "address": "北海道函館市湯川町1-2-25",
