@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "由布院温泉　柚富の郷　彩岳館",
+    "area": "湯布院",
+    "address": "大分県由布市湯布院町川上2378-1",
+    "review": "4.4",
+    "review_count": 347,
+    "min_charge": 20900,
+    "image": "https://trvimg.r10s.jp/share/image_up/20453/origin/9f197e5b0163a5a3ba3c0b28304ac20e7d6cb6fd.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20453%2F"
+  },
+  {
     "name": "由布院温泉　山荘　四季庵",
     "area": "湯布院",
     "address": "大分県由布市湯布院町塚原字黒笠木135-7",
