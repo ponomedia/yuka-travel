@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "指宿温泉　指宿ロイヤルホテル　〜すべての女性へ美と健康を楽しむホテル〜",
+    "area": "指宿",
+    "address": "鹿児島県指宿市十二町4232-1",
+    "review": "4.49",
+    "review_count": 1596,
+    "min_charge": 8415,
+    "image": "https://trvimg.r10s.jp/share/image_up/10832/origin/685c3828d2565286a83aa3c9c3d5b7a3f02a1ef1.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10832%2F"
+  },
+  {
     "name": "指宿温泉　夫婦露天風呂の宿　吟松（ぎんしょう）",
     "area": "指宿",
     "address": "鹿児島県指宿市湯の浜5-26-29",
