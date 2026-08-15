@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "指宿温泉　休暇村　指宿",
+    "area": "指宿",
+    "address": "鹿児島県指宿市東方10445",
+    "review": "4.34",
+    "review_count": 1183,
+    "min_charge": 10000,
+    "image": "https://trvimg.r10s.jp/share/image_up/8580/MIDDLE/qqFCc9.jpeg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8580%2F"
+  },
+  {
     "name": "指宿温泉　指宿ロイヤルホテル　〜すべての女性へ美と健康を楽しむホテル〜",
     "area": "指宿",
     "address": "鹿児島県指宿市十二町4232-1",
@@ -1169,16 +1179,6 @@ const HOTEL_LIST = [
     "min_charge": 6730,
     "image": "https://trvimg.r10s.jp/share/image_up/8978/origin/b184b342d31556f2195e0b33cd45e924323f56a5.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8978%2F"
-  },
-  {
-    "name": "指宿温泉　休暇村　指宿",
-    "area": "指宿",
-    "address": "鹿児島県指宿市東方10445",
-    "review": "4.37",
-    "review_count": 1140,
-    "min_charge": 12000,
-    "image": "https://trvimg.r10s.jp/share/image_up/8580/MIDDLE/qqFCc9.jpeg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8580%2F"
   },
   {
     "name": "ホテルラヴニール美瑛",
