@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "鹿児島　砂むし温泉　指宿白水館",
+    "area": "指宿",
+    "address": "鹿児島県指宿市東方12126-12",
+    "review": "4.52",
+    "review_count": 2391,
+    "min_charge": 14630,
+    "image": "https://trvimg.r10s.jp/share/image_up/12529/origin/a58383c1469d41ccbe3305b1c032fefa5f776bc0.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12529%2F"
+  },
+  {
     "name": "東急ステイ函館朝市　灯の湯（あかりのゆ）",
     "area": "函館",
     "address": "北海道函館市大手町22-1-1",
