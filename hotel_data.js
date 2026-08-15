@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "指宿温泉　夫婦露天風呂の宿　吟松（ぎんしょう）",
+    "area": "指宿",
+    "address": "鹿児島県指宿市湯の浜5-26-29",
+    "review": "4.61",
+    "review_count": 1534,
+    "min_charge": 13200,
+    "image": "https://trvimg.r10s.jp/share/image_up/49347/origin/943f11d6a1169106ff89a99a027bcfba70a88ede.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F49347%2F"
+  },
+  {
     "name": "鹿児島　砂むし温泉　指宿白水館",
     "area": "指宿",
     "address": "鹿児島県指宿市東方12126-12",
