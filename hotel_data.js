@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "指宿温泉　こらんの湯　錦江楼",
+    "area": "指宿",
+    "address": "鹿児島県指宿市西方4507",
+    "review": "4.31",
+    "review_count": 619,
+    "min_charge": 12100,
+    "image": "https://trvimg.r10s.jp/share/image_up/76346/origin/e7660b3be1bc2b3bd0e5609104fc4fbff519378e.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F76346%2F"
+  },
+  {
     "name": "指宿温泉　いぶすき秀水園",
     "area": "指宿",
     "address": "鹿児島県指宿市湯の浜5-27-27",
