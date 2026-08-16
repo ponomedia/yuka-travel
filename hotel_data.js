@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "つえたて温泉ひぜんや",
+    "area": "黒川温泉",
+    "address": "熊本県阿蘇郡小国町下城4223",
+    "review": "4.5",
+    "review_count": 1707,
+    "min_charge": 14541,
+    "image": "https://trvimg.r10s.jp/share/image_up/25092/origin/101cc78bf2a84a48041709d6fbb1635631b32811.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F25092%2F"
+  },
+  {
     "name": "黒川温泉　湯峡の響き　優彩",
     "area": "黒川温泉",
     "address": "熊本県阿蘇郡南小国町満願寺北黒川6554-1",
