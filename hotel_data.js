@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "黒川温泉　湯峡の響き　優彩",
+    "area": "黒川温泉",
+    "address": "熊本県阿蘇郡南小国町満願寺北黒川6554-1",
+    "review": "4.32",
+    "review_count": 1985,
+    "min_charge": 15400,
+    "image": "https://trvimg.r10s.jp/share/image_up/31796/origin/1c8646c831f13548a554f0c226a82a361dee53ab.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31796%2F"
+  },
+  {
     "name": "天然温泉　紫雲の湯　ラビスタ富良野ヒルズ（ドーミーイン・御宿野乃　ホテルズグループ）",
     "area": "富良野・美瑛",
     "address": "北海道富良野市朝日町5-14",
