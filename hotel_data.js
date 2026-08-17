@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "亀の井ホテル　草津リゾート（旧：草津温泉ホテルリゾート）",
+    "area": "草津温泉",
+    "address": "群馬県吾妻郡草津町草津15-8",
+    "review": "4.3",
+    "review_count": 1222,
+    "min_charge": 5691,
+    "image": "https://trvimg.r10s.jp/share/image_up/16110/origin/24c5b7fb72a206e9d98d9c77010d9e71e490be9d.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16110%2F"
+  },
+  {
     "name": "つえたて温泉ひぜんや",
     "area": "黒川温泉",
     "address": "熊本県阿蘇郡小国町下城4223",
