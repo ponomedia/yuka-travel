@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "山中温泉　吉祥やまなか",
+    "area": "加賀温泉",
+    "address": "石川県加賀市山中温泉東町1-ホ14-3",
+    "review": "4.73",
+    "review_count": 1600,
+    "min_charge": 10800,
+    "image": "https://trvimg.r10s.jp/share/image_up/67124/origin/9213d52b61aabd9df32c20a902e208d855c71c59.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67124%2F"
+  },
+  {
     "name": "森の栖リゾート＆スパ",
     "area": "加賀温泉",
     "address": "石川県加賀市山代温泉14-27",
