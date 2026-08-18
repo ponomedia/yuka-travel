@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "城崎温泉　湯楽　Ｙｕｒａｋｕ　Ｋｉｎｏｓａｋｉ　Ｓｐａ＆Ｇａｒｄｅｎｓ",
+    "area": "城崎温泉",
+    "address": "兵庫県豊岡市城崎町湯島844",
+    "review": "4.59",
+    "review_count": 1030,
+    "min_charge": 12980,
+    "image": "https://trvimg.r10s.jp/share/image_up/11351/origin/ebeab796c7398e1e4bcc1d285cd94d365c07a10f.47.1.26.2.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11351%2F"
+  },
+  {
     "name": "城崎温泉　川口屋城崎リバーサイドホテル",
     "area": "城崎温泉",
     "address": "兵庫県豊岡市城崎町湯島880-1",
