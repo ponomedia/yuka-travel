@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "豊岡グリーンホテルモーリス",
+    "area": "城崎温泉",
+    "address": "兵庫県豊岡市千代田町6-32",
+    "review": "4.54",
+    "review_count": 2508,
+    "min_charge": 5005,
+    "image": "https://trvimg.r10s.jp/share/image_up/145406/MIDDLE/W4Pl2r.jpeg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F145406%2F"
+  },
+  {
     "name": "山中温泉　吉祥やまなか",
     "area": "加賀温泉",
     "address": "石川県加賀市山中温泉東町1-ホ14-3",
@@ -1009,16 +1019,6 @@ const HOTEL_LIST = [
     "min_charge": 27300,
     "image": "https://trvimg.r10s.jp/share/image_up/5547/origin/27a070740aaf65ed1c2f8925b34e162b1f24bb75.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5547%2F"
-  },
-  {
-    "name": "豊岡グリーンホテルモーリス",
-    "area": "城崎温泉",
-    "address": "兵庫県豊岡市千代田町6-32",
-    "review": "4.54",
-    "review_count": 2326,
-    "min_charge": 5005,
-    "image": "https://trvimg.r10s.jp/share/image_up/145406/MIDDLE/W4Pl2r.jpeg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F145406%2F"
   },
   {
     "name": "雲仙温泉　ゆやど　雲仙新湯",
