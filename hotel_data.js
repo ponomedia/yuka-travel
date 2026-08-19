@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "白浜古賀の井リゾート＆スパ",
+    "area": "南紀白浜",
+    "address": "和歌山県西牟婁郡白浜町3212-1",
+    "review": "4.44",
+    "review_count": 5586,
+    "min_charge": 11900,
+    "image": "https://trvimg.r10s.jp/share/image_up/18253/origin/4fb94020d7a9e1d47b92183985655356faae155c.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18253%2F"
+  },
+  {
     "name": "日和山温泉　ホテル金波楼",
     "area": "城崎温泉",
     "address": "兵庫県豊岡市瀬戸1090",
