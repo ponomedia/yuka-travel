@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "日和山温泉　ホテル金波楼",
+    "area": "城崎温泉",
+    "address": "兵庫県豊岡市瀬戸1090",
+    "review": "4.45",
+    "review_count": 555,
+    "min_charge": 17800,
+    "image": "https://trvimg.r10s.jp/share/image_up/7020/origin/26bc67b8bfe71bfda009650b4c767be961da060b.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7020%2F"
+  },
+  {
     "name": "ＳＰＡ＆ＨＯＴＥＬ水春　松井山手",
     "area": "京都",
     "address": "京都府京田辺市山手中央5-1",
