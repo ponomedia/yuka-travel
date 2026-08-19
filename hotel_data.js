@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ＳＰＡ＆ＨＯＴＥＬ水春　松井山手",
+    "area": "京都",
+    "address": "京都府京田辺市山手中央5-1",
+    "review": "4.41",
+    "review_count": 328,
+    "min_charge": 8310,
+    "image": "https://trvimg.r10s.jp/share/image_up/172623/origin/f27d9f43010530b58d4052911aa3ec800612001e.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172623%2F"
+  },
+  {
     "name": "城崎温泉　あさぎり荘",
     "area": "城崎温泉",
     "address": "兵庫県豊岡市城崎町湯島876",
