@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "浜千鳥の湯　海舟（共立リゾート）",
+    "area": "南紀白浜",
+    "address": "和歌山県西牟婁郡白浜町1698-1",
+    "review": "4.37",
+    "review_count": 3606,
+    "min_charge": 15400,
+    "image": "https://trvimg.r10s.jp/share/image_up/68224/origin/3aac88c274258a1214fb2f841dd6681c96cede81.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68224%2F"
+  },
+  {
     "name": "白浜温泉　ホテル三楽荘",
     "area": "南紀白浜",
     "address": "和歌山県西牟婁郡白浜町3078",
@@ -1599,16 +1609,6 @@ const HOTEL_LIST = [
     "min_charge": 7830,
     "image": "https://trvimg.r10s.jp/share/image_up/160834/origin/4ac10a5b5c1603ee08c2cf7edadb23fe2e9a724f.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F160834%2F"
-  },
-  {
-    "name": "浜千鳥の湯　海舟（共立リゾート）",
-    "area": "南紀白浜",
-    "address": "和歌山県西牟婁郡白浜町1698-1",
-    "review": "4.39",
-    "review_count": 3516,
-    "min_charge": 12100,
-    "image": "https://img.travel.rakuten.co.jp/share/HOTEL/68224/68224.jpg",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68224%2F"
   },
   {
     "name": "雲仙温泉・源泉かけ流し＆おしどりの池を望む美食の宿　東園",
