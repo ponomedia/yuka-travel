@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "白浜温泉　ホテル三楽荘",
+    "area": "南紀白浜",
+    "address": "和歌山県西牟婁郡白浜町3078",
+    "review": "4.55",
+    "review_count": 2584,
+    "min_charge": 12100,
+    "image": "https://trvimg.r10s.jp/share/image_up/8226/origin/83ec6d635dcb011cf125db9169ea3ab56421636f.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8226%2F"
+  },
+  {
     "name": "ＳＨＩＲＡＨＡＭＡ　ＫＥＹ　ＴＥＲＲＡＣＥ　ＨＯＴＥＬ　ＳＥＡＭＯＲＥ（ホテルシーモア）",
     "area": "南紀白浜",
     "address": "和歌山県西牟婁郡白浜町1821",
@@ -1579,16 +1589,6 @@ const HOTEL_LIST = [
     "min_charge": 18800,
     "image": "https://trvimg.r10s.jp/share/image_up/70720/origin/a820679e0ae83ca7348a88ff072f702925174ae0.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70720%2F"
-  },
-  {
-    "name": "白浜温泉　ホテル三楽荘",
-    "area": "南紀白浜",
-    "address": "和歌山県西牟婁郡白浜町3078",
-    "review": "4.47",
-    "review_count": 2464,
-    "min_charge": 12100,
-    "image": "https://trvimg.r10s.jp/share/image_up/8226/origin/83ec6d635dcb011cf125db9169ea3ab56421636f.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8226%2F"
   },
   {
     "name": "南紀白浜マリオットホテル",
