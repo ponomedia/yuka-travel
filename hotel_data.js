@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ＳＨＩＲＡＨＡＭＡ　ＫＥＹ　ＴＥＲＲＡＣＥ　ＨＯＴＥＬ　ＳＥＡＭＯＲＥ（ホテルシーモア）",
+    "area": "南紀白浜",
+    "address": "和歌山県西牟婁郡白浜町1821",
+    "review": "4.3",
+    "review_count": 2265,
+    "min_charge": 7500,
+    "image": "https://trvimg.r10s.jp/share/image_up/166965/origin/d9d0fb626811e8a627844ad61d3532321b39544e.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166965%2F"
+  },
+  {
     "name": "白浜温泉　白良荘グランドホテル",
     "area": "南紀白浜",
     "address": "和歌山県西牟婁郡白浜町868",
