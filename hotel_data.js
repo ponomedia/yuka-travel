@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "白浜温泉　白良荘グランドホテル",
+    "area": "南紀白浜",
+    "address": "和歌山県西牟婁郡白浜町868",
+    "review": "4.48",
+    "review_count": 2461,
+    "min_charge": 8910,
+    "image": "https://trvimg.r10s.jp/share/image_up/2909/origin/ae11634724216096fe2c1ce54436270288bbc4d9.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2909%2F"
+  },
+  {
     "name": "白浜温泉　ホテル川久",
     "area": "南紀白浜",
     "address": "和歌山県西牟婁郡白浜町3745",
