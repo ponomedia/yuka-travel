@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "白浜温泉　ホテル川久",
+    "area": "南紀白浜",
+    "address": "和歌山県西牟婁郡白浜町3745",
+    "review": "4.54",
+    "review_count": 3670,
+    "min_charge": 27000,
+    "image": "https://trvimg.r10s.jp/share/image_up/14111/origin/727be9038b94ace2a8e33d1eeff67362c8f8a117.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14111%2F"
+  },
+  {
     "name": "紀州・白浜温泉　むさし",
     "area": "南紀白浜",
     "address": "和歌山県西牟婁郡白浜町868",
