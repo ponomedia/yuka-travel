@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "天然温泉　幸鐘の湯　ドーミーイン東室蘭（ドーミーイン・御宿野乃　ホテルズグループ）",
+    "area": "登別・洞爺",
+    "address": "北海道室蘭市中島町2-30-11",
+    "review": "4.36",
+    "review_count": 1668,
+    "min_charge": 6105,
+    "image": "https://trvimg.r10s.jp/share/image_up/149334/origin/db0719bec63300d4d03004647a9364aef560c21d.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149334%2F"
+  },
+  {
     "name": "登別温泉　ホテルゆもと登別",
     "area": "登別・洞爺",
     "address": "北海道登別市登別温泉町29",
