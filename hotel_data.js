@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "登別温泉　第一滝本館",
+    "area": "登別・洞爺",
+    "address": "北海道登別市登別温泉町55",
+    "review": "4.55",
+    "review_count": 3757,
+    "min_charge": 13000,
+    "image": "https://trvimg.r10s.jp/share/image_up/30109/origin/895287739d63a972742b8929d3149a47ccc1a20a.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30109%2F"
+  },
+  {
     "name": "杜の湯　きらの里（共立リゾート）",
     "area": "伊豆高原",
     "address": "静岡県伊東市八幡野1326-5",
