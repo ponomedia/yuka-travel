@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ザ・レイクスイート湖の栖（グランベルホテルズ&リゾーツ）",
+    "area": "登別・洞爺",
+    "address": "北海道有珠郡壮瞥町洞爺湖温泉7-1",
+    "review": "4.5",
+    "review_count": 893,
+    "min_charge": 32560,
+    "image": "https://trvimg.r10s.jp/share/image_up/172346/origin/8f1afa4e3b801fcfef86b0fb1176c5d6bd16c06e.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172346%2F"
+  },
+  {
     "name": "登別温泉　第一滝本館",
     "area": "登別・洞爺",
     "address": "北海道登別市登別温泉町55",
