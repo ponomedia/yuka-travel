@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "登別温泉　ホテルゆもと登別",
+    "area": "登別・洞爺",
+    "address": "北海道登別市登別温泉町29",
+    "review": "4.36",
+    "review_count": 1097,
+    "min_charge": 12430,
+    "image": "https://trvimg.r10s.jp/share/image_up/9691/origin/ddb702a8e77dfc08eea2733a519b25ece0b38fd6.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9691%2F"
+  },
+  {
     "name": "ザ・レイクスイート湖の栖（グランベルホテルズ&リゾーツ）",
     "area": "登別・洞爺",
     "address": "北海道有珠郡壮瞥町洞爺湖温泉7-1",
