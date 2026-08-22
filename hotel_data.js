@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ＡＮＡインターコンチネンタル万座ビーチリゾート　ｂｙ　ＩＨＧ",
+    "area": "恩納・名護",
+    "address": "沖縄県国頭郡恩納村瀬良垣2260",
+    "review": "4.4",
+    "review_count": 1274,
+    "min_charge": 13315,
+    "image": "https://trvimg.r10s.jp/share/image_up/16123/origin/f47d4ca13705d7eed5c839747a30194eb4f1cc1e.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16123%2F"
+  },
+  {
     "name": "下呂温泉　小川屋",
     "area": "下呂温泉",
     "address": "岐阜県下呂市湯之島570",
