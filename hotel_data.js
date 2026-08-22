@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "下呂温泉　水明館",
+    "area": "下呂温泉",
+    "address": "岐阜県下呂市幸田1268",
+    "review": "4.35",
+    "review_count": 6105,
+    "min_charge": 8250,
+    "image": "https://trvimg.r10s.jp/share/image_up/8886/origin/80115466c8d01673839ae0b32febb378c9c41651.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8886%2F"
+  },
+  {
     "name": "緑の風リゾート　きたゆざわ",
     "area": "登別・洞爺",
     "address": "北海道伊達市大滝区北湯沢温泉町300-2",
@@ -1559,16 +1569,6 @@ const HOTEL_LIST = [
     "min_charge": 7700,
     "image": "https://trvimg.r10s.jp/share/image_up/10716/origin/168044ee9c53e76af36f752ccdeb526e43fbb854.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10716%2F"
-  },
-  {
-    "name": "下呂温泉　水明館",
-    "area": "下呂温泉",
-    "address": "岐阜県下呂市幸田1268",
-    "review": "4.33",
-    "review_count": 5559,
-    "min_charge": 8250,
-    "image": "https://trvimg.r10s.jp/share/image_up/8886/origin/80115466c8d01673839ae0b32febb378c9c41651.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8886%2F"
   },
   {
     "name": "ハイアットリージェンシー瀬良垣アイランド沖縄",
