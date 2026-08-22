@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "下呂温泉　小川屋",
+    "area": "下呂温泉",
+    "address": "岐阜県下呂市湯之島570",
+    "review": "4.4",
+    "review_count": 4889,
+    "min_charge": 7700,
+    "image": "https://trvimg.r10s.jp/share/image_up/10716/origin/168044ee9c53e76af36f752ccdeb526e43fbb854.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10716%2F"
+  },
+  {
     "name": "下呂温泉　水明館",
     "area": "下呂温泉",
     "address": "岐阜県下呂市幸田1268",
@@ -1559,16 +1569,6 @@ const HOTEL_LIST = [
     "min_charge": 2750,
     "image": "https://trvimg.r10s.jp/share/image_up/4730/origin/d3103b54325a514e615f48bd929403cd45bfe4ee.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4730%2F"
-  },
-  {
-    "name": "下呂温泉　小川屋",
-    "area": "下呂温泉",
-    "address": "岐阜県下呂市湯之島570",
-    "review": "4.37",
-    "review_count": 4682,
-    "min_charge": 7700,
-    "image": "https://trvimg.r10s.jp/share/image_up/10716/origin/168044ee9c53e76af36f752ccdeb526e43fbb854.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10716%2F"
   },
   {
     "name": "ハイアットリージェンシー瀬良垣アイランド沖縄",
