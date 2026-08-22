@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "緑の風リゾート　きたゆざわ",
+    "area": "登別・洞爺",
+    "address": "北海道伊達市大滝区北湯沢温泉町300-2",
+    "review": "4.41",
+    "review_count": 1084,
+    "min_charge": 19250,
+    "image": "https://trvimg.r10s.jp/share/image_up/149046/origin/801c4e0f831a0e5d1e2681a9484dbf413c531aaa.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149046%2F"
+  },
+  {
     "name": "ザ　レイクビュー　ＴＯＹＡ　乃の風リゾート",
     "area": "登別・洞爺",
     "address": "北海道虻田郡洞爺湖町洞爺湖温泉29-1",
