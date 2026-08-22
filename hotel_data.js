@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ザ　レイクビュー　ＴＯＹＡ　乃の風リゾート",
+    "area": "登別・洞爺",
+    "address": "北海道虻田郡洞爺湖町洞爺湖温泉29-1",
+    "review": "4.57",
+    "review_count": 1529,
+    "min_charge": 30800,
+    "image": "https://trvimg.r10s.jp/share/image_up/139962/origin/e6de7224b3eec9e1e8ec82548828c8e13ea732fe.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139962%2F"
+  },
+  {
     "name": "天然温泉　幸鐘の湯　ドーミーイン東室蘭（ドーミーイン・御宿野乃　ホテルズグループ）",
     "area": "登別・洞爺",
     "address": "北海道室蘭市中島町2-30-11",
