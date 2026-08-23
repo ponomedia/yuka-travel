@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ザ　ロイヤルパークホテル　アイコニック　那覇（２０２６年１月３０日オープン）",
+    "area": "那覇",
+    "address": "沖縄県那覇市久茂地1-11-1 琉球銀行本店ビル 7階",
+    "review": "4.52",
+    "review_count": 406,
+    "min_charge": 11540,
+    "image": "https://trvimg.r10s.jp/share/image_up/196410/origin/05e9fe990b3461ae2a530d3176be67269e759423.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196410%2F"
+  },
+  {
     "name": "ダイワロイネットホテル那覇おもろまち",
     "area": "那覇",
     "address": "沖縄県那覇市おもろまち1-1-12",
