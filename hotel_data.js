@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "沖縄ハーバービューホテル",
+    "area": "那覇",
+    "address": "沖縄県那覇市泉崎2-46",
+    "review": "4.52",
+    "review_count": 1176,
+    "min_charge": 6600,
+    "image": "https://trvimg.r10s.jp/share/image_up/176757/origin/d4522bad79581897fa7f5b83eaf5aedd2d8b4f75.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F176757%2F"
+  },
+  {
     "name": "ＡＮＡインターコンチネンタル万座ビーチリゾート　ｂｙ　ＩＨＧ",
     "area": "恩納・名護",
     "address": "沖縄県国頭郡恩納村瀬良垣2260",
