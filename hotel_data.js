@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ダイワロイネットホテル那覇おもろまち",
+    "area": "那覇",
+    "address": "沖縄県那覇市おもろまち1-1-12",
+    "review": "4.44",
+    "review_count": 1641,
+    "min_charge": 3712,
+    "image": "https://trvimg.r10s.jp/share/image_up/134763/origin/4dd8bf0c549a09fc6ec7a5f45e235084a097e4dc.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F134763%2F"
+  },
+  {
     "name": "ホテルモントレ　ラ・スール那覇（２０２６年４月３日オープン）",
     "area": "那覇",
     "address": "沖縄県那覇市松尾1-1-2",
