@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ホテル　ストレータ那覇",
+    "area": "那覇",
+    "address": "沖縄県那覇市牧志1丁目19番8号",
+    "review": "4.39",
+    "review_count": 601,
+    "min_charge": 4900,
+    "image": "https://trvimg.r10s.jp/share/image_up/178292/origin/632dad9b3874f12992bdc315fe8351fae070f3cc.47.9.26.3.jpeg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178292%2F"
+  },
+  {
     "name": "ザ　ロイヤルパークホテル　アイコニック　那覇（２０２６年１月３０日オープン）",
     "area": "那覇",
     "address": "沖縄県那覇市久茂地1-11-1 琉球銀行本店ビル 7階",
