@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ＴＨＥ　ＮＥＳＴ那覇",
+    "area": "那覇",
+    "address": "沖縄県那覇市西1-6-1",
+    "review": "4.39",
+    "review_count": 353,
+    "min_charge": 3530,
+    "image": "https://trvimg.r10s.jp/share/image_up/196246/origin/3967e4586b428890318c0267a4863c70b12d9094.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196246%2F"
+  },
+  {
     "name": "ホテルリソルトリニティ那覇",
     "area": "那覇",
     "address": "沖縄県那覇市旭町7",
