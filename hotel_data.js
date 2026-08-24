@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "別館　うみね",
+    "area": "別府",
+    "address": "大分県別府市大字鉄輪字山ノ上580-1",
+    "review": "4.57",
+    "review_count": 320,
+    "min_charge": 11270,
+    "image": "https://trvimg.r10s.jp/share/image_up/187531/origin/b5b909e80c12460dcf840e464b83b930a4837d30.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187531%2F"
+  },
+  {
     "name": "ＴＨＥ　ＮＥＳＴ那覇",
     "area": "那覇",
     "address": "沖縄県那覇市西1-6-1",
