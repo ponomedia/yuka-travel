@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ホテルモントレ神戸",
+    "area": "有馬温泉・神戸",
+    "address": "兵庫県神戸市中央区下山手通2-11-13",
+    "review": "4.33",
+    "review_count": 1471,
+    "min_charge": 5015,
+    "image": "https://trvimg.r10s.jp/share/image_up/178589/origin/353878cce15d3a9d8884f14e86e09bd5f24378fb.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178589%2F"
+  },
+  {
     "name": "別府温泉　美湯の宿　両築別邸",
     "area": "別府",
     "address": "大分県別府市観海寺町3番12号",
