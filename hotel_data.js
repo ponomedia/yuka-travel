@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "別府温泉　美湯の宿　両築別邸",
+    "area": "別府",
+    "address": "大分県別府市観海寺町3番12号",
+    "review": "4.41",
+    "review_count": 1669,
+    "min_charge": 7700,
+    "image": "https://trvimg.r10s.jp/share/image_up/108176/origin/cf0195a9aa2993f3493cea5be07e0a2f4dc2feb4.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108176%2F"
+  },
+  {
     "name": "別館　うみね",
     "area": "別府",
     "address": "大分県別府市大字鉄輪字山ノ上580-1",
