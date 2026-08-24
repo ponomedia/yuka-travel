@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ホテルリソルトリニティ那覇",
+    "area": "那覇",
+    "address": "沖縄県那覇市旭町7",
+    "review": "4.51",
+    "review_count": 950,
+    "min_charge": 5800,
+    "image": "https://trvimg.r10s.jp/share/image_up/182884/origin/ab2aa7764891eb623f6a163fa7b239a7e5e839a0.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182884%2F"
+  },
+  {
     "name": "ホテル　ストレータ那覇",
     "area": "那覇",
     "address": "沖縄県那覇市牧志1丁目19番8号",
