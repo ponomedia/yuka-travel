@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "黒川温泉　山あいの宿　山みず木",
+    "area": "黒川温泉",
+    "address": "熊本県阿蘇郡南小国町黒川温泉",
+    "review": "4.63",
+    "review_count": 465,
+    "min_charge": 20900,
+    "image": "https://trvimg.r10s.jp/share/image_up/136864/origin/03f7d5a27df0fd584f52f7a1c14ae6cf1a2b2f37.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F136864%2F"
+  },
+  {
     "name": "山中温泉河鹿荘",
     "area": "加賀温泉",
     "address": "石川県加賀市山中温泉河鹿町ホ-100",
