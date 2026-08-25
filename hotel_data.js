@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "黒川温泉　お宿のし湯",
+    "area": "黒川温泉",
+    "address": "熊本県阿蘇郡南小国町満願寺6591-1　",
+    "review": "4.83",
+    "review_count": 458,
+    "min_charge": 23100,
+    "image": "https://trvimg.r10s.jp/share/image_up/78187/origin/1d166d245af882fe4d136d20c902b9feec1591d2.47.1.26.2.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F78187%2F"
+  },
+  {
     "name": "黒川温泉　山あいの宿　山みず木",
     "area": "黒川温泉",
     "address": "熊本県阿蘇郡南小国町黒川温泉",
