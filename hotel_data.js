@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "神戸ベイシェラトンホテル＆タワーズ",
+    "area": "有馬温泉・神戸",
+    "address": "兵庫県神戸市東灘区向洋町中2-13",
+    "review": "4.47",
+    "review_count": 4770,
+    "min_charge": 7040,
+    "image": "https://trvimg.r10s.jp/share/image_up/1524/origin/c22ee640d4515903087ecaeaaac3b4f39f5dee3d.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1524%2F"
+  },
+  {
     "name": "ホテルモントレ神戸",
     "area": "有馬温泉・神戸",
     "address": "兵庫県神戸市中央区下山手通2-11-13",
