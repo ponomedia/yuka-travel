@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "黒川温泉　いやしの里　樹やしき",
+    "area": "黒川温泉",
+    "address": "熊本県阿蘇郡南小国町大字満願寺6403-1",
+    "review": "4.62",
+    "review_count": 317,
+    "min_charge": 21050,
+    "image": "https://trvimg.r10s.jp/share/image_up/53367/origin/3669d79b7679f671240873b714c23ef3e654b26b.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F53367%2F"
+  },
+  {
     "name": "黒川温泉　お宿のし湯",
     "area": "黒川温泉",
     "address": "熊本県阿蘇郡南小国町満願寺6591-1　",
