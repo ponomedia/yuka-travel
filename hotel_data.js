@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "黒川温泉　やまびこ旅館",
+    "area": "黒川温泉",
+    "address": "熊本県阿蘇郡南小国町黒川6704",
+    "review": "4.57",
+    "review_count": 357,
+    "min_charge": 19800,
+    "image": "https://trvimg.r10s.jp/share/image_up/67974/origin/2b506a74dfb250ff5d9a1d12121385679af3ac90.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67974%2F"
+  },
+  {
     "name": "黒川温泉　いやしの里　樹やしき",
     "area": "黒川温泉",
     "address": "熊本県阿蘇郡南小国町大字満願寺6403-1",
