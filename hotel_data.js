@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ＴＡＯＹＡ和倉",
+    "area": "和倉温泉",
+    "address": "石川県七尾市和倉町ヨ部91-1",
+    "review": "4.43",
+    "review_count": 1639,
+    "min_charge": 17700,
+    "image": "https://trvimg.r10s.jp/share/image_up/108765/origin/13212f98a14a03568bc66292dd2aede19871a235.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108765%2F"
+  },
+  {
     "name": "黒川温泉　やまびこ旅館",
     "area": "黒川温泉",
     "address": "熊本県阿蘇郡南小国町黒川6704",
