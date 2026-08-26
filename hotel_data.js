@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "和倉温泉　ゆけむりの宿美湾荘",
+    "area": "和倉温泉",
+    "address": "石川県七尾市和倉町和歌崎3-1",
+    "review": "4.54",
+    "review_count": 2699,
+    "min_charge": 5500,
+    "image": "https://trvimg.r10s.jp/share/image_up/11144/origin/835460077e4a29ca111d21cc141453a0395ed37e.47.1.26.2.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11144%2F"
+  },
+  {
     "name": "ちりはまホテルゆ華",
     "area": "和倉温泉",
     "address": "石川県羽咋市千里浜町タ1-26",
