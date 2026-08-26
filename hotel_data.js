@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ちりはまホテルゆ華",
+    "area": "和倉温泉",
+    "address": "石川県羽咋市千里浜町タ1-26",
+    "review": "4.45",
+    "review_count": 456,
+    "min_charge": 9300,
+    "image": "https://trvimg.r10s.jp/share/image_up/56826/origin/c2ff4591b79ea481038e98142339c690ad05a85f.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F56826%2F"
+  },
+  {
     "name": "ＴＡＯＹＡ和倉",
     "area": "和倉温泉",
     "address": "石川県七尾市和倉町ヨ部91-1",
