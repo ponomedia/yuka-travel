@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ホテルアリヴィオ",
+    "area": "和倉温泉",
+    "address": "石川県七尾市神明町1番地　ミナ.クルビル1階",
+    "review": "4.33",
+    "review_count": 902,
+    "min_charge": 9500,
+    "image": "https://trvimg.r10s.jp/share/image_up/52138/MIDDLE/riqtkw.jpeg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52138%2F"
+  },
+  {
     "name": "和倉温泉　ゆけむりの宿美湾荘",
     "area": "和倉温泉",
     "address": "石川県七尾市和倉町和歌崎3-1",
