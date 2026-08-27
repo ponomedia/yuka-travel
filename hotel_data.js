@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "登別温泉　ホテル　まほろば",
+    "area": "登別・洞爺",
+    "address": "北海道登別市登別温泉町65",
+    "review": "4.3",
+    "review_count": 2799,
+    "min_charge": 12500,
+    "image": "https://trvimg.r10s.jp/share/image_up/12568/origin/b1f165aef5ced4db25c381c05a494e8c117b95e3.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12568%2F"
+  },
+  {
     "name": "和倉温泉　宿守屋寿苑",
     "area": "和倉温泉",
     "address": "石川県七尾市和倉ひばり2-52",
