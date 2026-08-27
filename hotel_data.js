@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "和倉温泉　ホテル海望",
+    "area": "和倉温泉",
+    "address": "石川県七尾市和倉町和歌崎部12-3",
+    "review": "4.49",
+    "review_count": 1053,
+    "min_charge": 7700,
+    "image": "https://trvimg.r10s.jp/share/image_up/14395/origin/4f93230a7e01deb378e79f2d14b7371db42775ad.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14395%2F"
+  },
+  {
     "name": "ホテルアリヴィオ",
     "area": "和倉温泉",
     "address": "石川県七尾市神明町1番地　ミナ.クルビル1階",
