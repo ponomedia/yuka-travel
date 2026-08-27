@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "白鷺の湯　能登　海舟（共立リゾート）（２０２６年７月１６日営業再開）",
+    "area": "和倉温泉",
+    "address": "石川県七尾市和倉町ワ部31番地",
+    "review": "4.56",
+    "review_count": 450,
+    "min_charge": 22700,
+    "image": "https://trvimg.r10s.jp/share/image_up/179989/origin/04008931010bcfa9f9cacd77199673c4c2a5d0c0.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179989%2F"
+  },
+  {
     "name": "和倉温泉　ホテル海望",
     "area": "和倉温泉",
     "address": "石川県七尾市和倉町和歌崎部12-3",
