@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "熱海温泉　ホテル大野屋（伊東園ホテルズ）",
+    "area": "熱海",
+    "address": "静岡県熱海市和田浜南町3-9",
+    "review": "3.93",
+    "review_count": 2112,
+    "min_charge": 7898,
+    "image": "https://trvimg.r10s.jp/share/image_up/54209/origin/54211948b78ad31aa48490ea42e7c203db1d46e7.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54209%2F"
+  },
+  {
     "name": "熱海温泉　熱海ニューフジヤホテル（伊東園ホテルズ）",
     "area": "熱海",
     "address": "静岡県熱海市銀座町1-16",
