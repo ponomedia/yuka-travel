@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ラビスタ熱海テラス（共立リゾート）（２０２６年３月３１日グランドＯＰＥＮ）",
+    "area": "熱海",
+    "address": "静岡県熱海市東海岸町8番19号",
+    "review": "4.45",
+    "review_count": 137,
+    "min_charge": 14300,
+    "image": "https://trvimg.r10s.jp/share/image_up/196679/origin/1c05fdc9f7247bfd7cee7282003e70a8a2f80fa5.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196679%2F"
+  },
+  {
     "name": "季の湯　雪月花（共立リゾート）",
     "area": "箱根",
     "address": "神奈川県足柄下郡箱根町強羅1300-34",
