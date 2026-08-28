@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "富士山を一望できる宿　ホテルグリーンプラザ箱根",
+    "area": "箱根",
+    "address": "神奈川県足柄下郡箱根町仙石原1244-2",
+    "review": "4.11",
+    "review_count": 2610,
+    "min_charge": 12995,
+    "image": "https://trvimg.r10s.jp/share/image_up/11011/origin/49d5dfe1446591cfd8f44b6f1ff183ae93f6cd77.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11011%2F"
+  },
+  {
     "name": "南紀白浜とれとれヴィレッジ",
     "area": "南紀白浜",
     "address": "和歌山県西牟婁郡白浜町堅田2498-1",
