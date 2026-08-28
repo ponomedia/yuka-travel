@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "熱海温泉　熱海ニューフジヤホテル（伊東園ホテルズ）",
+    "area": "熱海",
+    "address": "静岡県熱海市銀座町1-16",
+    "review": "3.77",
+    "review_count": 3643,
+    "min_charge": 7985,
+    "image": "https://trvimg.r10s.jp/share/image_up/1459/origin/4ee23425471eb4779c4f743b0fc5dc0fb7e266a1.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1459%2F"
+  },
+  {
     "name": "ラビスタ熱海テラス（共立リゾート）（２０２６年３月３１日グランドＯＰＥＮ）",
     "area": "熱海",
     "address": "静岡県熱海市東海岸町8番19号",
@@ -1689,16 +1699,6 @@ const HOTEL_LIST = [
     "min_charge": 8568,
     "image": "https://trvimg.r10s.jp/share/image_up/7440/origin/7720807c3eecb644e74e869873af550094b945f9.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7440%2F"
-  },
-  {
-    "name": "熱海温泉　熱海ニューフジヤホテル（伊東園ホテルズ）",
-    "area": "熱海",
-    "address": "静岡県熱海市銀座町1-16",
-    "review": "3.7",
-    "review_count": 3358,
-    "min_charge": 7986,
-    "image": "https://trvimg.r10s.jp/share/image_up/1459/origin/4ee23425471eb4779c4f743b0fc5dc0fb7e266a1.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1459%2F"
   },
   {
     "name": "箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月",
