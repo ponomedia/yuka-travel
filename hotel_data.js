@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ホテル＆スパ　アンダリゾート伊豆高原",
+    "area": "伊豆高原",
+    "address": "静岡県伊東市八幡野1133",
+    "review": "4.56",
+    "review_count": 3414,
+    "min_charge": 16800,
+    "image": "https://trvimg.r10s.jp/share/image_up/20532/origin/43fb1b43f339018eb201a3e8dcc206239047fad1.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20532%2F"
+  },
+  {
     "name": "アンダの森　伊豆いっぺき湖",
     "area": "伊豆高原",
     "address": "静岡県伊東市吉田836-2",
@@ -1949,16 +1959,6 @@ const HOTEL_LIST = [
     "min_charge": 17100,
     "image": "https://trvimg.r10s.jp/share/image_up/187434/origin/000a9720d90da5b209056d3760c31c7d4dc3405e.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187434%2F"
-  },
-  {
-    "name": "ホテル＆スパ　アンダリゾート伊豆高原",
-    "area": "伊豆高原",
-    "address": "静岡県伊東市八幡野1133",
-    "review": "4.58",
-    "review_count": 3211,
-    "min_charge": 19800,
-    "image": "https://trvimg.r10s.jp/share/image_up/20532/origin/43fb1b43f339018eb201a3e8dcc206239047fad1.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20532%2F"
   },
   {
     "name": "南紀白浜マリオットホテル",
