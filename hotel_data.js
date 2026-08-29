@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "全室スイート＆オーシャンビュー　ヴィラージュ伊豆高原",
+    "area": "伊豆高原",
+    "address": "静岡県伊東市富戸1317-8",
+    "review": "4.56",
+    "review_count": 1374,
+    "min_charge": 4510,
+    "image": "https://trvimg.r10s.jp/share/image_up/28426/origin/a1276b156aac05c45eea94fe23d2d198832e0e62.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28426%2F"
+  },
+  {
     "name": "ホテル　アンダのおうち　伊豆高原",
     "area": "伊豆高原",
     "address": "静岡県伊東市八幡野1033-88",
@@ -1929,16 +1939,6 @@ const HOTEL_LIST = [
     "min_charge": 16500,
     "image": "https://trvimg.r10s.jp/share/image_up/52638/origin/8ddf04e4b983d85e55fa060cbfaf8ba6ec9b6448.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52638%2F"
-  },
-  {
-    "name": "全室スイート＆オーシャンビュー　ヴィラージュ伊豆高原",
-    "area": "伊豆高原",
-    "address": "静岡県伊東市富戸1317-8",
-    "review": "4.53",
-    "review_count": 1302,
-    "min_charge": 4660,
-    "image": "https://trvimg.r10s.jp/share/image_up/28426/origin/53645468a9782b77900f191e4c81e427679318df.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28426%2F"
   },
   {
     "name": "愛犬お宿　伊豆高原",
