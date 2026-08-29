@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "プレジャーリゾート伊豆赤沢温泉（赤沢温泉ホテル）",
+    "area": "伊豆高原",
+    "address": "静岡県伊東市赤沢浮山163-1",
+    "review": "4.38",
+    "review_count": 1828,
+    "min_charge": 7425,
+    "image": "https://trvimg.r10s.jp/share/image_up/107696/origin/3e4752f37132c9e8bbf3351a7258ad544f8baa94.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107696%2F"
+  },
+  {
     "name": "熱海温泉　ホテル大野屋（伊東園ホテルズ）",
     "area": "熱海",
     "address": "静岡県熱海市和田浜南町3-9",
@@ -1909,16 +1919,6 @@ const HOTEL_LIST = [
     "min_charge": 21800,
     "image": "https://trvimg.r10s.jp/share/image_up/143277/origin/36074a598c66bf0d5ee9965b8bf79b9c4d868066.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F143277%2F"
-  },
-  {
-    "name": "プレジャーリゾート伊豆赤沢温泉（赤沢温泉ホテル）",
-    "area": "伊豆高原",
-    "address": "静岡県伊東市赤沢浮山163-1",
-    "review": "4.48",
-    "review_count": 1495,
-    "min_charge": 5500,
-    "image": "https://trvimg.r10s.jp/share/image_up/107696/origin/b1a8170e6dff58a2354759ab074dd8992834791e.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107696%2F"
   },
   {
     "name": "亀の井ホテル　伊豆高原",
