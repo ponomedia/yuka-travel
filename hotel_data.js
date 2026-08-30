@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ＳＫＹ－ＨＩＬＬ　ＨＯＴＥＬ　伊豆高原",
+    "area": "伊豆高原",
+    "address": "静岡県伊東市富戸1317-624",
+    "review": "4.21",
+    "review_count": 130,
+    "min_charge": 11300,
+    "image": "https://trvimg.r10s.jp/share/image_up/187179/origin/0e1f4dfe81bc282730f018ffa78f5ec486e21284.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187179%2F"
+  },
+  {
     "name": "伊豆シャボテンヴィレッジ　グランピング",
     "area": "伊豆高原",
     "address": "静岡県伊東市富戸１３１７番地１３",
