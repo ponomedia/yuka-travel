@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "湯めぐりの宿　修善寺温泉　桂川（共立リゾート）",
+    "area": "修善寺・伊豆長岡",
+    "address": "静岡県伊豆市修善寺860",
+    "review": "4.35",
+    "review_count": 1914,
+    "min_charge": 9600,
+    "image": "https://trvimg.r10s.jp/share/image_up/1645/origin/c635483904c3918abe1d3160d824c733575e82f3.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1645%2F"
+  },
+  {
     "name": "わんわんパラダイス　伊豆高原（旧：伊豆高原わんわんパラダイス　ホテル＆コテージ）",
     "area": "伊豆高原",
     "address": "静岡県伊東市大室高原3-490",
