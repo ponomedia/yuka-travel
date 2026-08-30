@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "わんわんパラダイス　伊豆高原（旧：伊豆高原わんわんパラダイス　ホテル＆コテージ）",
+    "area": "伊豆高原",
+    "address": "静岡県伊東市大室高原3-490",
+    "review": "4.2",
+    "review_count": 1287,
+    "min_charge": 8568,
+    "image": "https://trvimg.r10s.jp/share/image_up/7440/origin/7720807c3eecb644e74e869873af550094b945f9.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7440%2F"
+  },
+  {
     "name": "ＳＫＹ－ＨＩＬＬ　ＨＯＴＥＬ　伊豆高原",
     "area": "伊豆高原",
     "address": "静岡県伊東市富戸1317-624",
@@ -1779,16 +1789,6 @@ const HOTEL_LIST = [
     "min_charge": 4400,
     "image": "https://trvimg.r10s.jp/share/image_up/29968/origin/a22004d6bbfe9038b7fee7e06bf53ea3deeec7ff.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29968%2F"
-  },
-  {
-    "name": "わんわんパラダイス　伊豆高原（旧：伊豆高原わんわんパラダイス　ホテル＆コテージ）",
-    "area": "伊豆高原",
-    "address": "静岡県伊東市大室高原3-490",
-    "review": "4.08",
-    "review_count": 1132,
-    "min_charge": 8568,
-    "image": "https://trvimg.r10s.jp/share/image_up/7440/origin/7720807c3eecb644e74e869873af550094b945f9.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7440%2F"
   },
   {
     "name": "箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月",
