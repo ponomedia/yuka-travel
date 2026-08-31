@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ホテルサンルートソプラ神戸アネッサ",
+    "area": "有馬温泉・神戸",
+    "address": "兵庫県神戸市兵庫区湊町４丁目１－１１",
+    "review": "4.3",
+    "review_count": 1780,
+    "min_charge": 3600,
+    "image": "https://trvimg.r10s.jp/share/image_up/158366/origin/ba9332988ba29f7da3d4b493d170f9d17a0bb6dc.47.1.26.2.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158366%2F"
+  },
+  {
     "name": "加賀片山津温泉　佳水郷（アパホテルズ＆リゾーツ）",
     "area": "加賀温泉",
     "address": "石川県加賀市潮津町イ72-1",
