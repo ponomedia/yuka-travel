@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "加賀片山津温泉　佳水郷（アパホテルズ＆リゾーツ）",
+    "area": "加賀温泉",
+    "address": "石川県加賀市潮津町イ72-1",
+    "review": "4.43",
+    "review_count": 1544,
+    "min_charge": 8000,
+    "image": "https://trvimg.r10s.jp/share/image_up/28355/origin/52a529ce6252e5faf7a103d550fa810811290f9d.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28355%2F"
+  },
+  {
     "name": "黒川温泉　いこい旅館",
     "area": "黒川温泉",
     "address": "熊本県阿蘇郡南小国町黒川温泉川端通り",
