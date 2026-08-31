@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "イマジンホテル＆リゾート函館",
+    "area": "函館",
+    "address": "北海道函館市湯川町3-1-17",
+    "review": "4.44",
+    "review_count": 2350,
+    "min_charge": 4641,
+    "image": "https://trvimg.r10s.jp/share/image_up/137023/origin/85bebdb28da48bed01b7c82b484f0d17775bcc6e.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137023%2F"
+  },
+  {
     "name": "ホテルサンルートソプラ神戸アネッサ",
     "area": "有馬温泉・神戸",
     "address": "兵庫県神戸市兵庫区湊町４丁目１－１１",
@@ -1949,16 +1959,6 @@ const HOTEL_LIST = [
     "min_charge": 36300,
     "image": "https://trvimg.r10s.jp/share/image_up/158501/origin/b82e043e3cadd7fa4522c6b0df18a96634b43203.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158501%2F"
-  },
-  {
-    "name": "イマジンホテル＆リゾート函館",
-    "area": "函館",
-    "address": "北海道函館市湯川町3-1-17",
-    "review": "4.47",
-    "review_count": 2047,
-    "min_charge": 4641,
-    "image": "https://trvimg.r10s.jp/share/image_up/137023/origin/85bebdb28da48bed01b7c82b484f0d17775bcc6e.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137023%2F"
   },
   {
     "name": "粟津温泉　旅亭懐石　のとや",
