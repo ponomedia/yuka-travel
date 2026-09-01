@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "アートホテル石垣島＜石垣島＞",
+    "area": "石垣・西表",
+    "address": "沖縄県石垣市大川559",
+    "review": "4.3",
+    "review_count": 1186,
+    "min_charge": 5670,
+    "image": "https://trvimg.r10s.jp/share/image_up/2770/origin/b71daf785ee271a64a9645849f108213fafa6190.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2770%2F"
+  },
+  {
     "name": "イマジンホテル＆リゾート函館",
     "area": "函館",
     "address": "北海道函館市湯川町3-1-17",
