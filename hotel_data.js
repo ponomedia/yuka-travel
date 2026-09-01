@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "３００坪を誇る湯殿が自慢　ホテルサンバレー伊豆長岡",
+    "area": "修善寺・伊豆長岡",
+    "address": "静岡県伊豆の国市長岡659",
+    "review": "4.2",
+    "review_count": 2556,
+    "min_charge": 14355,
+    "image": "https://trvimg.r10s.jp/share/image_up/1918/origin/76fbe744828a62bd01c87cfc475f3140017bf1a2.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1918%2F"
+  },
+  {
     "name": "アートホテル石垣島＜石垣島＞",
     "area": "石垣・西表",
     "address": "沖縄県石垣市大川559",
@@ -1839,16 +1849,6 @@ const HOTEL_LIST = [
     "min_charge": 15180,
     "image": "https://trvimg.r10s.jp/share/image_up/145483/origin/62bab7da16a669a84e8102bfdea86b5279e37ec1.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F145483%2F"
-  },
-  {
-    "name": "３００坪を誇る湯殿が自慢　ホテルサンバレー伊豆長岡",
-    "area": "修善寺・伊豆長岡",
-    "address": "静岡県伊豆の国市長岡659",
-    "review": "4.29",
-    "review_count": 2477,
-    "min_charge": 14850,
-    "image": "https://trvimg.r10s.jp/share/image_up/1918/origin/76fbe744828a62bd01c87cfc475f3140017bf1a2.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1918%2F"
   },
   {
     "name": "伊豆長岡温泉　ニュー八景園",
