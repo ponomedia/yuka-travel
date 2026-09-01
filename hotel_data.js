@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "伊豆長岡温泉　湯めぐりの宿　吉春",
+    "area": "修善寺・伊豆長岡",
+    "address": "静岡県伊豆の国市長岡989-10",
+    "review": "4.55",
+    "review_count": 1680,
+    "min_charge": 14300,
+    "image": "https://trvimg.r10s.jp/share/image_up/31173/origin/bce45e848b147cc2e95adda9dcdc36575bfa4bc8.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31173%2F"
+  },
+  {
     "name": "伊豆長岡温泉　ニュー八景園",
     "area": "修善寺・伊豆長岡",
     "address": "静岡県伊豆の国市長岡211",
