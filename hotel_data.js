@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "エンゼルフォレスト中伊豆",
+    "area": "修善寺・伊豆長岡",
+    "address": "静岡県伊豆市上白岩2071-1175",
+    "review": "4.51",
+    "review_count": 126,
+    "min_charge": 6785,
+    "image": "https://trvimg.r10s.jp/share/image_up/188078/origin/91c118a0c88f76630b1b312ac7693cd975d4825f.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188078%2F"
+  },
+  {
     "name": "修善寺温泉　宙ＳＯＲＡ　渡月荘金龍",
     "area": "修善寺・伊豆長岡",
     "address": "静岡県伊豆市修善寺3455",
