@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "リブマックスリゾート天城湯ヶ島",
+    "area": "修善寺・伊豆長岡",
+    "address": "静岡県伊豆市湯ヶ島2821-4",
+    "review": "3.8",
+    "review_count": 737,
+    "min_charge": 4244,
+    "image": "https://trvimg.r10s.jp/share/image_up/147843/origin/b13d53cb6d4daed11d507e5db160f60a4dc4a18d.47.1.26.2.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147843%2F"
+  },
+  {
     "name": "香湯楼井川　（ＫＯＵＹＵＲＯＵ　ＩＫＡＷＡ）",
     "area": "修善寺・伊豆長岡",
     "address": "静岡県伊豆の国市古奈43-2",
