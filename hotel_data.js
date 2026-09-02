@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ホテルラフォーレ修善寺　山紫水明",
+    "area": "修善寺・伊豆長岡",
+    "address": "静岡県伊豆市大平1529",
+    "review": "4.25",
+    "review_count": 452,
+    "min_charge": 14810,
+    "image": "https://trvimg.r10s.jp/share/image_up/145483/origin/62bab7da16a669a84e8102bfdea86b5279e37ec1.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F145483%2F"
+  },
+  {
     "name": "リブマックスリゾート天城湯ヶ島",
     "area": "修善寺・伊豆長岡",
     "address": "静岡県伊豆市湯ヶ島2821-4",
@@ -1879,16 +1889,6 @@ const HOTEL_LIST = [
     "min_charge": 10769,
     "image": "https://trvimg.r10s.jp/share/image_up/84721/origin/10764bdaaf0a1862938289cf6996a863eba67cf6.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F84721%2F"
-  },
-  {
-    "name": "ホテルラフォーレ修善寺　山紫水明",
-    "area": "修善寺・伊豆長岡",
-    "address": "静岡県伊豆市大平1529",
-    "review": "4.25",
-    "review_count": 423,
-    "min_charge": 15180,
-    "image": "https://trvimg.r10s.jp/share/image_up/145483/origin/62bab7da16a669a84e8102bfdea86b5279e37ec1.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F145483%2F"
   },
   {
     "name": "箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月",
