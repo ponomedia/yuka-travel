@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "大仁温泉　大仁ホテル（伊東園ホテルズ）",
+    "area": "修善寺・伊豆長岡",
+    "address": "静岡県伊豆の国市吉田1178",
+    "review": "4.03",
+    "review_count": 1139,
+    "min_charge": 7898,
+    "image": "https://trvimg.r10s.jp/share/image_up/39515/origin/9193f27041952ef9017aab755ea43fcb898a7553.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39515%2F"
+  },
+  {
     "name": "エンゼルフォレスト中伊豆",
     "area": "修善寺・伊豆長岡",
     "address": "静岡県伊豆市上白岩2071-1175",
