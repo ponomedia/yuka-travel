@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "修善寺温泉　宙ＳＯＲＡ　渡月荘金龍",
+    "area": "修善寺・伊豆長岡",
+    "address": "静岡県伊豆市修善寺3455",
+    "review": "4.71",
+    "review_count": 609,
+    "min_charge": 11000,
+    "image": "https://trvimg.r10s.jp/share/image_up/27983/origin/34e602642b52745dfee7e1c89f1e3cba90639b46.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F27983%2F"
+  },
+  {
     "name": "ホテルラフォーレ修善寺　山紫水明",
     "area": "修善寺・伊豆長岡",
     "address": "静岡県伊豆市大平1529",
