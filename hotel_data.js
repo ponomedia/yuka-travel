@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "黒川温泉　山みず木別邸　深山山荘",
+    "area": "黒川温泉",
+    "address": "熊本県阿蘇郡南小国町満願寺6393",
+    "review": "4.77",
+    "review_count": 300,
+    "min_charge": 30750,
+    "image": "https://trvimg.r10s.jp/share/image_up/147706/origin/2acaae0a6e7832441517f44a738d7415b39b6037.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147706%2F"
+  },
+  {
     "name": "ロワジールスパタワー那覇",
     "area": "那覇",
     "address": "沖縄県那覇市西3-2-1",
