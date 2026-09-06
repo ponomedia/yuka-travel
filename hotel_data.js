@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ロワジールスパタワー那覇",
+    "area": "那覇",
+    "address": "沖縄県那覇市西3-2-1",
+    "review": "4.33",
+    "review_count": 688,
+    "min_charge": 7031,
+    "image": "https://trvimg.r10s.jp/share/image_up/78094/origin/1368d1cd5ec7360f362c1be3c49f69502704d96e.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F78094%2F"
+  },
+  {
     "name": "大仁温泉　大仁ホテル（伊東園ホテルズ）",
     "area": "修善寺・伊豆長岡",
     "address": "静岡県伊豆の国市吉田1178",
