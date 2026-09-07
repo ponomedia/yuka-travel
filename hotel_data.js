@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ゆふいんグランピング　ＣＯＭＯＲＥＢＩ",
+    "area": "湯布院",
+    "address": "大分県由布市挾間町時松105",
+    "review": "4.46",
+    "review_count": 312,
+    "min_charge": 8800,
+    "image": "https://trvimg.r10s.jp/share/image_up/177044/origin/37ef577908a8fb75b9cdac5be0c4a48d7a396ba8.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177044%2F"
+  },
+  {
     "name": "黒川温泉　山みず木別邸　深山山荘",
     "area": "黒川温泉",
     "address": "熊本県阿蘇郡南小国町満願寺6393",
