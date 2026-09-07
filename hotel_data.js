@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "有馬温泉　兵衛向陽閣",
+    "area": "有馬温泉・神戸",
+    "address": "兵庫県神戸市北区有馬町1904",
+    "review": "4.55",
+    "review_count": 2592,
+    "min_charge": 15950,
+    "image": "https://trvimg.r10s.jp/share/image_up/8636/origin/6eb96b3f8bcd6a4bed75c43dfd71297117f93699.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8636%2F"
+  },
+  {
     "name": "定山渓温泉　章月グランドホテル",
     "area": "定山渓",
     "address": "北海道札幌市南区定山渓温泉東3-239",
