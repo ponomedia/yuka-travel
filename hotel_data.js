@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "シーサイドホテル舞子ビラ神戸",
+    "area": "有馬温泉・神戸",
+    "address": "兵庫県神戸市垂水区東舞子町18-11",
+    "review": "4.44",
+    "review_count": 5441,
+    "min_charge": 5700,
+    "image": "https://trvimg.r10s.jp/share/image_up/1421/origin/3611fd63258a6db0c78bf15330402fd1b3791a3f.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1421%2F"
+  },
+  {
     "name": "有馬温泉　兵衛向陽閣",
     "area": "有馬温泉・神戸",
     "address": "兵庫県神戸市北区有馬町1904",
