@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "石垣シーサイドホテル　＜石垣島＞",
+    "area": "石垣・西表",
+    "address": "沖縄県石垣市川平154-12",
+    "review": "4.32",
+    "review_count": 334,
+    "min_charge": 5950,
+    "image": "https://trvimg.r10s.jp/share/image_up/70868/origin/92a58da11787ab0097d5f6b4d9a946758f5903a1.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70868%2F"
+  },
+  {
     "name": "シーサイドホテル舞子ビラ神戸",
     "area": "有馬温泉・神戸",
     "address": "兵庫県神戸市垂水区東舞子町18-11",
