@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "定山渓温泉　章月グランドホテル",
+    "area": "定山渓",
+    "address": "北海道札幌市南区定山渓温泉東3-239",
+    "review": "4.4",
+    "review_count": 903,
+    "min_charge": 23650,
+    "image": "https://trvimg.r10s.jp/share/image_up/2911/origin/89efb49369e2caadcbd92f00e807ab1a8c310a7f.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2911%2F"
+  },
+  {
     "name": "ゆふいんグランピング　ＣＯＭＯＲＥＢＩ",
     "area": "湯布院",
     "address": "大分県由布市挾間町時松105",
