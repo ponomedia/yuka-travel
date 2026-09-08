@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "リッチモンドホテル那覇久茂地（２０２６年７月１３日リニューアル）",
+    "area": "那覇",
+    "address": "沖縄県那覇市久茂地2-23-12",
+    "review": "4.32",
+    "review_count": 4105,
+    "min_charge": 3487,
+    "image": "https://trvimg.r10s.jp/share/image_up/19934/origin/f52083a609e76668e0552f257228b70c5f533c8a.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19934%2F"
+  },
+  {
     "name": "黒川温泉　旅館　わかば",
     "area": "黒川温泉",
     "address": "熊本県阿蘇郡南小国町満願寺6431",
