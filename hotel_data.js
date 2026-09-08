@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "飲める温泉、自家源泉の宿　ホテルサンバレー富士見",
+    "area": "修善寺・伊豆長岡",
+    "address": "静岡県伊豆の国市古奈185-1",
+    "review": "4.45",
+    "review_count": 1475,
+    "min_charge": 9180,
+    "image": "https://trvimg.r10s.jp/share/image_up/19810/origin/5c22bd3665e49a5023817ee58aad1c7532dc8764.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19810%2F"
+  },
+  {
     "name": "愛犬お宿　伊豆高原",
     "area": "伊豆高原",
     "address": "静岡県伊東市富戸1038-91",
