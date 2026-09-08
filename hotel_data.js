@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "黒川温泉　旅館　わかば",
+    "area": "黒川温泉",
+    "address": "熊本県阿蘇郡南小国町満願寺6431",
+    "review": "4.56",
+    "review_count": 692,
+    "min_charge": 13200,
+    "image": "https://trvimg.r10s.jp/share/image_up/31854/MIDDLE/Y9WqiX.jpeg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31854%2F"
+  },
+  {
     "name": "小田温泉　四季の里　はなむら",
     "area": "黒川温泉",
     "address": "熊本県阿蘇郡南小国町大字満願寺小田5850",
