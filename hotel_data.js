@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "愛犬お宿　伊豆高原",
+    "area": "伊豆高原",
+    "address": "静岡県伊東市富戸1038-91",
+    "review": "4.61",
+    "review_count": 725,
+    "min_charge": 19800,
+    "image": "https://trvimg.r10s.jp/share/image_up/143277/origin/36074a598c66bf0d5ee9965b8bf79b9c4d868066.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F143277%2F"
+  },
+  {
     "name": "リッチモンドホテル那覇久茂地（２０２６年７月１３日リニューアル）",
     "area": "那覇",
     "address": "沖縄県那覇市久茂地2-23-12",
@@ -2189,16 +2199,6 @@ const HOTEL_LIST = [
     "min_charge": 16500,
     "image": "https://trvimg.r10s.jp/share/image_up/52638/origin/8ddf04e4b983d85e55fa060cbfaf8ba6ec9b6448.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52638%2F"
-  },
-  {
-    "name": "愛犬お宿　伊豆高原",
-    "area": "伊豆高原",
-    "address": "静岡県伊東市富戸1038-91",
-    "review": "4.66",
-    "review_count": 656,
-    "min_charge": 21800,
-    "image": "https://trvimg.r10s.jp/share/image_up/143277/origin/36074a598c66bf0d5ee9965b8bf79b9c4d868066.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F143277%2F"
   },
   {
     "name": "南紀白浜マリオットホテル",
