@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "小田温泉　四季の里　はなむら",
+    "area": "黒川温泉",
+    "address": "熊本県阿蘇郡南小国町大字満願寺小田5850",
+    "review": "4.65",
+    "review_count": 426,
+    "min_charge": 24000,
+    "image": "https://trvimg.r10s.jp/share/image_up/55647/origin/9e0dd28128ceb82b9f7ffbdbd41737dfde70c091.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F55647%2F"
+  },
+  {
     "name": "石垣シーサイドホテル　＜石垣島＞",
     "area": "石垣・西表",
     "address": "沖縄県石垣市川平154-12",
