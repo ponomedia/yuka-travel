@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "伊豆長岡温泉　ホテル天坊",
+    "area": "修善寺・伊豆長岡",
+    "address": "静岡県伊豆の国市長岡431-1",
+    "review": "4.43",
+    "review_count": 699,
+    "min_charge": 11000,
+    "image": "https://trvimg.r10s.jp/share/image_up/67097/MIDDLE/4h7LZA.jpeg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67097%2F"
+  },
+  {
     "name": "飲める温泉、自家源泉の宿　ホテルサンバレー富士見",
     "area": "修善寺・伊豆長岡",
     "address": "静岡県伊豆の国市古奈185-1",
