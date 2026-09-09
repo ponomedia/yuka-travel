@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "プレジャーリゾート伊豆赤沢温泉",
+    "area": "伊豆高原",
+    "address": "静岡県伊東市赤沢浮山163-1",
+    "review": "4.39",
+    "review_count": 1889,
+    "min_charge": 7425,
+    "image": "https://trvimg.r10s.jp/share/image_up/107696/origin/3e4752f37132c9e8bbf3351a7258ad544f8baa94.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107696%2F"
+  },
+  {
     "name": "ＨＩＹＯＲＩオーシャンリゾート沖縄",
     "area": "恩納・名護",
     "address": "沖縄県国頭郡恩納村仲泊1055-1",
