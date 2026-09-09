@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "下呂温泉　離れの宿　月のあかり",
+    "area": "下呂温泉",
+    "address": "岐阜県下呂市湯之島758-15",
+    "review": "4.3",
+    "review_count": 419,
+    "min_charge": 37000,
+    "image": "https://trvimg.r10s.jp/share/image_up/68528/origin/567f2d97804d68bc9484b2504a00c21216a4a494.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68528%2F"
+  },
+  {
     "name": "伊豆長岡温泉　ホテル天坊",
     "area": "修善寺・伊豆長岡",
     "address": "静岡県伊豆の国市長岡431-1",
@@ -2169,16 +2179,6 @@ const HOTEL_LIST = [
     "min_charge": 9900,
     "image": "https://trvimg.r10s.jp/share/image_up/14380/origin/a4f3e5ed5986ced7becf5938d389c307bb0e2b48.47.9.26.3.jpg?fit=inside%7C888:498",
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14380%2F"
-  },
-  {
-    "name": "下呂温泉　離れの宿　月のあかり",
-    "area": "下呂温泉",
-    "address": "岐阜県下呂市湯之島758-15",
-    "review": "4.3",
-    "review_count": 372,
-    "min_charge": 36000,
-    "image": "https://trvimg.r10s.jp/share/image_up/68528/origin/567f2d97804d68bc9484b2504a00c21216a4a494.47.9.26.3.jpg?fit=inside%7C888:498",
-    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68528%2F"
   },
   {
     "name": "下呂温泉　湯あそびの宿　下呂観光ホテル本館",
