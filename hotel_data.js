@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ホテルラフォーレ修善寺",
+    "area": "修善寺・伊豆長岡",
+    "address": "静岡県伊豆市大平1529",
+    "review": "3.95",
+    "review_count": 833,
+    "min_charge": 4100,
+    "image": "https://trvimg.r10s.jp/share/image_up/67933/origin/dca5136e6f7fc5690d4a92323fe144b715b6c4ae.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67933%2F"
+  },
+  {
     "name": "伊豆長岡温泉　弘法の湯　長岡店",
     "area": "修善寺・伊豆長岡",
     "address": "静岡県伊豆の国市長岡１１１０",
