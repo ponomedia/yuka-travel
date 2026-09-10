@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ＴＡＯＹＡ熱海（旧：大江戸温泉物語　ホテル水葉亭）（２０２６年７月１８日リブランドオープン）",
+    "area": "熱海",
+    "address": "静岡県熱海市伊豆山190-1",
+    "review": "3.93",
+    "review_count": 1237,
+    "min_charge": 19100,
+    "image": "https://trvimg.r10s.jp/share/image_up/160921/origin/d77091619d7ac025d653b5715e5dbc580bdf46a5.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F160921%2F"
+  },
+  {
     "name": "プレジャーリゾート伊豆赤沢温泉",
     "area": "伊豆高原",
     "address": "静岡県伊東市赤沢浮山163-1",
