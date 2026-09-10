@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "伊豆グランヴィレッジ　グランピング",
+    "area": "伊豆高原",
+    "address": "静岡県伊東市富戸1089-4",
+    "review": "4.62",
+    "review_count": 115,
+    "min_charge": 18200,
+    "image": "https://trvimg.r10s.jp/share/image_up/184404/origin/9b4a44b861d2319d1d267cb9e103704042b7d8a4.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184404%2F"
+  },
+  {
     "name": "ＴＡＯＹＡ熱海（旧：大江戸温泉物語　ホテル水葉亭）（２０２６年７月１８日リブランドオープン）",
     "area": "熱海",
     "address": "静岡県熱海市伊豆山190-1",
