@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "ＵＦＵＦＵ　ＶＩＬＬＡＧＥ",
+    "area": "修善寺・伊豆長岡",
+    "address": "静岡県伊豆市月ケ瀬425-1",
+    "review": "4.25",
+    "review_count": 129,
+    "min_charge": 15600,
+    "image": "https://trvimg.r10s.jp/share/image_up/168621/origin/999d328a2273f0d3dcfee8a7232d168d97c9d2b0.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168621%2F"
+  },
+  {
     "name": "ホテルラフォーレ修善寺",
     "area": "修善寺・伊豆長岡",
     "address": "静岡県伊豆市大平1529",
