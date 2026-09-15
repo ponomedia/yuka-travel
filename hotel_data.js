@@ -1,6 +1,16 @@
 // このファイルはtravel_hotel_poster.pyが自動更新します
 const HOTEL_LIST = [
   {
+    "name": "日光温泉　日光　星の宿",
+    "area": "日光・鬼怒川",
+    "address": "栃木県日光市上鉢石町1115",
+    "review": "4.47",
+    "review_count": 666,
+    "min_charge": 12650,
+    "image": "https://trvimg.r10s.jp/share/image_up/41725/origin/4a9ef5f2a5cad53a965e89a3e2fb26ff0740ef03.47.9.26.3.jpg?fit=inside%7C888:498",
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/52ac58bc.05f4f7c6.52ac58bd.4392e6e1/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41725%2F"
+  },
+  {
     "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　日光宝殿",
     "area": "日光・鬼怒川",
     "address": "栃木県日光市宝殿23-1",
